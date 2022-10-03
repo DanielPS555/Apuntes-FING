@@ -36,5 +36,25 @@ Ambas formas de asignacion tiene su ventajas y desventajas.
 
 ### Ventajas de la conmutacion de paquetes
 - Es mas facil de implementar, evita el tiempo elevado de estableser la ruta y reservar los recursos de los conmutadores. 
-- Ofrece una mejor comparticion de las capacidades de trasmicion exisentes
+- Ofrece una mejor comparticion de las capacidades de los conmutadores exisentes
 - Como los conmutadores trabajan a demanda, en los tiempos de inactividad no se desperdician recursos, mientas que en la conmutacion de circuitos si lo hace. 
+
+## Estructura de la red
+La estructura del nucleo de la red de internet es bastante compleja. 
+Todo comienza con los ISP, tanto los que terminan proveen de internet a los host como los que proveen de internet a los demas ISP. Se pueden distingir 3 niveles de ISP.
+Los *ISP de nivel 1* son los ISP globales, por arriva de ellos no hay ningun otro ISP, ellos se conectan entre si, formando una red central.
+Los *ISP de nivel 2* son los ISP regioales, los cuales se encargan de proveer de internet a una determinada region. Se conectan  (pagandole) a uno o mas ISP de nivel 1, y ademas ellos tambien se conectan con otros ISP regionales. Para enviar un paquete de un ISP regional a otro lo mas posible es que se tenga que pasar por los ISP de nivel 1. 
+Los *ISP de nivel 3*, tambien conocidos como ISP de acceso, son aquellos que proveen de internet a una determinada LAN, se conectan a los ISP regionales. 
+
+Hay varios conceptos mas que hay que ver para aproximarnos a la estructura de la red:
+
+*La conexcion entre pares* es cuando dos ISP de un mismo nivel conectan sus redes directamente, sin pasar por un ISP. Generalmente esta conexcion es libre de cargo para ambas partes. 
+
+Los *IXP* (Internet exchange point) son puntos de reunion donde multiples ISP establesen conexciones entre pares. Estos ultimos generalmente se encuentran en el mismo lugar donde la empresa construyo el IXP. 
+
+Los *PoP* (Point of reference) es un grupo de routers de la red de un proveedor dado, la idea es que los ISP clientes arquilen un enlase de alta velocidad (o un espacio) donde puedan alojar uno de sus router y se puedan conectar a uno de los router del proveedor al que pertenece el PoP. 
+Es importante decir que un ISP cliente puede recurrir a la *multidomiciliacion* , lo cual significa que se conecte con varios ISP proveedores en vez de uno solo. De forma tal que si uno falla, el ISP proveedor pueda continuar operando. 
+
+Tambien tenemos las *redes de proveedores de contenido* donde una compañia (como Google) tiene una red privada con toda la infraestructura necesaria para conectarse con sus centros de datos en todo el mundo (no pasa por los ISP de nivel 1). Por lo que siempre y cuando este dentro de su propia red, este puede administrarla y utilízala como prefiere sin cargo. También puede establecer conexión de par con ISP regionales o de acceso. De todas formas, para llegar a algunos ISP, si o si tiene que pasar por los ISP de nivel 1, por lo que también tiene conexiones con estos últimos en caso de necesitarlas.
+
+![[Pasted image 20221002150448.png]]
