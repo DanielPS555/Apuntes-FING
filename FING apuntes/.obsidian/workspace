@@ -7,12 +7,8 @@
         "id": "968da80f5b95d638",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "968da80f5b95d638",
   "lastOpenFiles": [
-    "REDES/Introducion/Nucelo de la red.md",
-    "REDES/Introducion/Frontera de la red.md",
-    "REDES/Introducion/Conceptos basicos de redes.md",
-    "REDES/Introducion/Capa de protocolos.md",
+    "REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
+    "REDES/Capa aplicacion/HTTP/Indice HTTP.md",
+    "REDES/Capa aplicacion/HTTP/HTTP persiste y no persistente.md",
+    "REDES/Capa aplicacion/HTTP/HTTP cookies.md",
+    "REDES/Capa aplicacion/HTTP/Formato del HTTP.md",
+    "REDES/Capa aplicacion/HTTP/Almacenamiento en cache HTTP.md",
     "REDES/Indice redes.md",
-    "REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
-    "Pasted image 20221002023828.png",
-    "Pasted image 20221002025413.png",
-    "Pasted image 20221002030356.png",
-    "REDES/Introducion/Indice introducion.md"
+    "REDES/Capa aplicacion/Introducion Capa de aplicacion.md",
+    "REDES/Capa aplicacion/DNS.md",
+    "REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md"
   ]
 }
