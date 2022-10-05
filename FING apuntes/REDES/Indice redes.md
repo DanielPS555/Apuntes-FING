@@ -14,5 +14,14 @@ Este es el indice de la materia redes
 2. Capa de aplicacion
 	1. [[Introducion Capa de aplicacion]]
 	2. [[Indice HTTP]]
+	3. [[Correo electronico]]
+	4. [[DNS]]
+	5. [[Indice P2P]]
+3. Capa de transporte
+	1. [[Introducion a Capa de transporte]]
+	2. [[Multiplexacion y desmultiplexacion capa de transporte]]
+	3. [[UDP]]
+	4. [[Indice TCP]]
+	5. 
 
 
