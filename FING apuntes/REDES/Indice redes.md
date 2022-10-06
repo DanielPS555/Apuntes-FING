@@ -21,7 +21,9 @@ Este es el indice de la materia redes
 	1. [[Introducion a Capa de transporte]]
 	2. [[Multiplexacion y desmultiplexacion capa de transporte]]
 	3. [[UDP]]
-	4. [[Indice TCP]]
-	5. 
+	4. [[Implementacion de un servicio de tranferencia fiable (Stop and wait )]]
+	5. [[Procesamiento en cadena en un protoclo de tranferencia de datos fiable]]
+	6. [[Indice TCP]]
+	7. 
 
 
