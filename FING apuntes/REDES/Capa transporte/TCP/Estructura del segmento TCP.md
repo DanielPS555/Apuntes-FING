@@ -32,3 +32,4 @@ Cada segmento TCP tiene una estructura que pasaremos a definir a continuacion.
 - El numero de reconocimiento que envia el host A al host B, es el numero de secuencia del primer segmento que espera recibir A de B. 
 - TCP tiene *reconocimientos acumulativos*. Osea si envia un numero de reconocimiento, todos los bytes previos fueron reconocidos. Pero a diferencia de GBN, no descarta los segmentos que le llegaron fuera de orden, los guarda en un buffer del receptor hasta que le llegan los segmentos faltantes (los huecos). 
 - Se dice que el reconocimiento de datos esta *superpuesto* al segmento de datos enviado, ya que se envian en el mismo segmento los datos y el segmento de reconocimiento. 
+

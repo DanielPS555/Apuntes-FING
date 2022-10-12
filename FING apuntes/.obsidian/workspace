@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "REDES/Capa transporte/Principio del control de congestion.md",
+            "file": "REDES/Capa aplicacion/Correo electronico.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.5
+    "width": 510.5
   },
   "right": {
     "id": "f171ae401c4cf8d1",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Capa transporte/Principio del control de congestion.md",
+                "file": "REDES/Capa aplicacion/Correo electronico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDES/Capa transporte/Principio del control de congestion.md",
+                "file": "REDES/Capa aplicacion/Correo electronico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REDES/Capa transporte/Principio del control de congestion.md"
+                "file": "REDES/Capa aplicacion/Correo electronico.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "954f1896609eb529",
   "lastOpenFiles": [
-    "REDES/Distribucion de archivo P2P/BitTorrent.md",
-    "REDES/Distribucion de archivo P2P/Indice P2P.md",
-    "REDES/Distribucion de archivo P2P/Introducion a P2P.md",
-    "REDES/Capa transporte/TCP/Indice TCP.md",
-    "REDES/Capa transporte/TCP/Gestion de la conexcion TCP.md",
-    "REDES/Capa transporte/TCP/Control de flujo TCP.md",
-    "REDES/Capa transporte/TCP/Introduccion TCP.md",
-    "REDES/Capa transporte/TCP/Estimacion de tiempo de ida y vuelta, fin del temporizador TCP.md",
+    "REDES/Capa transporte/Implementacion de un servicio de tranferencia fiable (Stop and wait ).md",
+    "INGLES/Gramar/Future in the past.md",
+    "REDES/Capa transporte/TCP/Estructura del segmento TCP.md",
     "REDES/Capa transporte/TCP/Tranferencia de datos fiable TCP.md",
-    "REDES/Capa transporte/TCP/Estructura del segmento TCP.md"
+    "REDES/Capa transporte/TCP/Gestion de la conexcion TCP.md",
+    "REDES/Capa transporte/TCP/Mecanismo de control de congestion TCP.md",
+    "Excalidraw/Esquema control de congestion TCP.md",
+    "REDES/Capa transporte/TCP/Indice TCP.md",
+    "REDES/Indice redes.md",
+    "Excalidraw/Drawing 2022-10-01 22.05.35.excalidraw.md"
   ]
 }

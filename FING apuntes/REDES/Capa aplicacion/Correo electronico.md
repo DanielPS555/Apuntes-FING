@@ -16,7 +16,7 @@ Por ultimo, cuando el usuario receptor asi lo desee, ingresara a su agente de us
 
 ## SMTP
 - Definido en el RFC 5231 
-- Usa TCP en el puerto 25
+- Usa TCP en el puerto 25 (inseguro) o 465 (seguro)
 - Todos los mensajes van codificados en ASCII de 7 bits. Esta codificacion compejisa las cosas cuando hay que codificar archivos multimedia
 - No se utilizan servidores intermedios. Si los dos servidores de correo estan del otro lado del mundo, entonces el mensaje se envia directo.
 - SMTP tiene una *etapa de negociacion a nivel de aplicacion*, en la que el cliente SMTP espesifica  el *correo emisor y receptor*. Luego el cliente envia el mensaje. 
@@ -45,7 +45,7 @@ Como el protoclo SMTP es un protoclo PUSH, no le sirve al usuario receptor para 
 ## POP3
    
 POP3 es uno de los protocolos que utilizan los agentes de usuario para obtener correos del servidor de correos. 
-Utiliza el puerto es el 110 y el RFC 1939. 
+Utiliza el puerto es el 110(inseguro) y 995 (seguro) y el RFC 1939. 
 
 Es un protocolo muy simple que consiste en 3 etapas:
 - *Autorizacion*: El agente envia el nombre de usuario y la contraseña para autentificarlos.
@@ -67,7 +67,7 @@ Todos los comandos tiene dos posibles respuestas *+OK* , *-ERR*.
 
 ## IMAP
 IMAP es una actualizacion del POP3, con mas funcionalidades. 
-Utiliza el puerto 143 y esta definido en el RFC 3501.
+Utiliza el puerto 143 (inseguro) y el 993 (seguro) y esta definido en el RFC 3501.
 
 IMAP permite crear carpetas remota (con su jerarquia), mover correos a estas carpetas, obtener partes espesificas del mensaje de un correo, entre otras funcionalidades. 
 
