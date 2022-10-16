@@ -32,7 +32,8 @@ En este apartado vamos a ver los formatos de los mensajes HTTP.
 	- 301 = Moved Permanently (Movie el objeto a otro lugar y en la linea de cabecera Location te paso su nueva URL)
 	- 304 = Not Modified (Utilizado para las [[Almacenamiento en cache HTTP]])
 	- 400 = Bad request
-	- 403 = No autentificado 
+	- 401 = No autentificado
+	- 403 = No autorizado 
 	- 404 = Not found
 	- 500 = Internal server error
 	- 505 = Version no soportada
@@ -42,7 +43,7 @@ En este apartado vamos a ver los formatos de los mensajes HTTP.
 	- *Content-Ecoding*
 	- *Content-Type*
 	- *Server* : nombre del tipo de servidor que contesta
-	- *Date*
+	- *Last-Modifed*
 	- *Connection* : Devuelve close si luego de este mensaje cierra la conexcion.
 	- *Set-cookie*: Por aqui se devuelve una nueva cookie creada para esta seccion
 

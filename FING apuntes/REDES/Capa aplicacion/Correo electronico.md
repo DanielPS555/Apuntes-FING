@@ -23,7 +23,7 @@ Por ultimo, cuando el usuario receptor asi lo desee, ingresara a su agente de us
 - SMTP tiene una serie de comandos:
 	- *HELO* IDENTIFICACION . Luego que el servidor SMTP se haya identificado con el codigo 200, enviamos el comando HELO identificado ahora al cliente SMTP con el servidor. Si todo sale bien nos debuelve codigo 250
 	- *MAIL FROM* < CORREO EMISOR >  :  Definimos el correo emisor. Si todo sale bien nos debuelve 250.
-	- *RCTP TO* < CORREO RECEPTOR > : Definimos el correo receptor. Si todo sale bien nos devuelve 250. 
+	- *RCPT TO* < CORREO RECEPTOR > : Definimos el correo receptor. Si todo sale bien nos devuelve 250. 
 	- *DATA*: Luego de ingresado nos devuelve el codigo 354 diciendo que ya podemos escribirm a continuacion el cliente escrive el mensaje linea a linea, cuando se termina se deja un renglon con solo un '.', El caso de que el mensaje sea aceptado nos debueve 250, 
 	- *QUIT*. En caso que no queramos enviar otro mensaje (que comenzariamos nuevamente con el MAIL FROM), se envia el comando QUIT, el cual nos devuelve el codigo 221 
 ![[Pasted image 20221004112638.png]]

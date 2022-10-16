@@ -1,4 +1,4 @@
-# Principio del control de congestion
+# Principio del control de congestion 
 En la practica, la mayoria de las de las perdidas de paquetes se ven devidas a desbordamiento de los buffers de los routers de la red. Es por eso que se requieren de controles de congestion con el fin que los clientes tengan cuidado de no saturar la red en demacia. O al menos no contribuir a este saturamiento. 
 
 ## Costes de la congestion 

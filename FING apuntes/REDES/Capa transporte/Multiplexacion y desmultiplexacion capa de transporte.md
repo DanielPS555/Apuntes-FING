@@ -11,10 +11,10 @@ Cada *socket tiene un identificador* asociado, el formato de este identificador 
 En las cabeceras de la capa de red, tanto los segmentos UDP como los TCP tiene incluido el *numero de puerto de origen* y el *numero de puerto de destino*. Los numero  de puerto son enteros de 16 bits, donde los numero de puerto menores a 1023 se los conoce como *numero de puerto bien conocidos*.
 
 Alguno de estos puertos bien conocidos pueden ser: 
-- FTP : 21
+- FTP : 21, 20
 - HTTP : 80
 - SMTP : 25
-- DNS: 51
+- DNS: 53
 - HTTPS : 443
 - POP3 : 110
 - IMAP: 143
