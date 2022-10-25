@@ -1,0 +1,3 @@
+## Comparativo 
+
+Bad -- Worse -- Worst

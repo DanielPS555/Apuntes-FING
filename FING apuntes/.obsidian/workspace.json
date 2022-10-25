@@ -8,18 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "157ab73268fbb5ee",
+            "id": "48b8c710fe5cbbb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
+                "file": "General/Notas.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "028687c61d830ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/Capa de red/Formato de los datagramas Ipv4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caa960cef6f2a553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/Capa de red/Fragmentacion IPV4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4d4ec039e54ab81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/Capa de red/Dirrecionamiento IPv4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a2a3476dc67ffb2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 395.5
   },
   "right": {
     "id": "f171ae401c4cf8d1",
@@ -85,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "REDES/Capa aplicacion/HTTP/Introducion HTTP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,17 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "157ab73268fbb5ee",
+  "active": "7a2a3476dc67ffb2",
   "lastOpenFiles": [
-    "REDES/Capa aplicacion/HTTP/Almacenamiento en cache HTTP.md",
-    "REDES/Capa aplicacion/HTTP/HTTP cookies.md",
-    "REDES/Capa aplicacion/HTTP/Formato del HTTP.md",
-    "REDES/Capa aplicacion/HTTP/HTTP persiste y no persistente.md",
-    "REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
-    "REDES/Capa aplicacion/Introducion Capa de aplicacion.md",
-    "REDES/Capa aplicacion/Correo electronico.md",
-    "REDES/Capa aplicacion/Distribucion de archivo P2P/BitTorrent.md",
-    "REDES/Capa aplicacion/Distribucion de archivo P2P/Introducion a P2P.md",
-    "REDES/Introducion/Capa de protocolos.md"
+    "REDES/Capa transporte/TCP/Indice TCP.md",
+    "REDES/Indice redes.md",
+    "REDES/Capa de red/IPv6.md",
+    "REDES/Capa de red/Dirrecionamiento IPv4.md",
+    "REDES/Capa de red/Fragmentacion IPV4.md",
+    "REDES/Capa de red/Formato de los datagramas Ipv4.md",
+    "REDES/Capa de red/Untitled.md",
+    "General/Notas.md",
+    "BASE DE DATOS/Dependencias funcionales/Dependencias multivaludadas y 4FN.md",
+    "BASE DE DATOS/Pasaje de MER a MR/Introducion del pasaje de MER a relacional.md"
   ]
 }

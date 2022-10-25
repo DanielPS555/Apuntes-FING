@@ -25,5 +25,11 @@ Este es el indice de la materia redes
 	5. [[Procesamiento en cadena en un protoclo de tranferencia de datos fiable]]
 	6. [[Indice TCP]]
 	7. 
-
+4. Capa de red
+	1. [[Introducion a la capa de red]]
+	2. [[El interior del router]]
+	3. [[Formato de los datagramas Ipv4]]
+	4. [[Fragmentacion IPV4]]
+	5. [[Dirrecionamiento IPv4]]
+	6. [[IPv6]]
 
