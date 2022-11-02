@@ -20,51 +20,43 @@
             }
           },
           {
-            "id": "028687c61d830ba4",
+            "id": "d8b84148000b416e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Capa de red/Formato de los datagramas Ipv4.md",
+                "file": "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "caa960cef6f2a553",
+            "id": "cd129440a4fe52c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Capa de red/Fragmentacion IPV4.md",
+                "file": "REDES/Capa de red/Capa de control/OSPF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4d4ec039e54ab81",
+            "id": "54d2a5058e02529e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Capa de red/Dirrecionamiento IPv4.md",
+                "file": "REDES/Capa de red/Capa de control/BGP.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7a2a3476dc67ffb2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 504.5
   },
   "right": {
     "id": "f171ae401c4cf8d1",
@@ -130,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "REDES/Capa de red/Capa de control/BGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "REDES/Capa de red/Capa de control/BGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "REDES/Capa de red/Capa de control/BGP.md"
+              }
             }
           }
         ]
@@ -177,20 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "7a2a3476dc67ffb2",
+  "active": "54d2a5058e02529e",
   "lastOpenFiles": [
-    "REDES/Capa transporte/TCP/Indice TCP.md",
-    "REDES/Indice redes.md",
-    "REDES/Capa de red/IPv6.md",
-    "REDES/Capa de red/Dirrecionamiento IPv4.md",
-    "REDES/Capa de red/Fragmentacion IPV4.md",
-    "REDES/Capa de red/Formato de los datagramas Ipv4.md",
-    "REDES/Capa de red/Untitled.md",
+    "REDES/Capa de red/Capa de control/OSPF.md",
+    "REDES/Capa de red/Capa de control/BGP.md",
+    "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md",
+    "BASE DE DATOS/Organizacion y  acceso a datos/Organizacion y acceso a datos.md",
     "General/Notas.md",
     "BASE DE DATOS/Dependencias funcionales/Dependencias multivaludadas y 4FN.md",
-    "BASE DE DATOS/Pasaje de MER a MR/Introducion del pasaje de MER a relacional.md"
+    "REDES/Capa de red/Capa de datos/Dirrecionamiento IPv4.md",
+    "REDES/Capa de red/Capa de datos/Formato de los datagramas Ipv4.md",
+    "REDES/Capa de red/Capa de datos/Fragmentacion IPV4.md",
+    "REDES/Capa de red/Capa de control/Introducion plano de red.md"
   ]
 }

@@ -56,6 +56,22 @@ Toda LAN tiene lo que se conoce como *Tabla de traducciones NAT*, que mapea el l
 Luego el router envia el paquete al destino pero con su ip y un puerto que eligio. Cuando el destino le conteste, le va a contestar a la NAT con su ip y su puerto, luego con la tabla de traduciones NAT el NAT le envia ese paquete al verdadero origen. 
 
 Hay dos problemas con NAT
-1. Utiliza los numeros de puerto para dirrecionar procesos y no host. Eso genera problemas cuando hay servidores dentro de la red domestica que esperan solicitudes a un puerto bien conocido. 
+1. Utiliza los numeros de puerto para dirrecionar procesos y no host. Eso genera problemas cuando hay servidores dentro de la red domestica que esperan solicitudes a un puerto bien conocido. Por lo que no nos podemos conectar al servidor. Hay algunas soluciones para esto: 
+	 - Lo que se puede hacer es *always forwarded*, es como inicializar una entrada del NAT por defecto. 
+	 - Otra solucion que es que el servidor directamente le  habla al router dirrectamente para configurar el forwarding. Osea permite añadir y eliminar *port mappings* y conocer la IP publica. Un protoclo que hace esto es el *UPnP* 
+	 - Otra opcion es usar un puente, como es el caso de skype. Aqui hay un servidor llamado skype relay en el cual tanto los clientes con ip publica como las privadas (ocultas tras la NAT) se conectan, y luego este servidor hace de puente entre las dos conexciones (osea une las conexciones de cada cliente con el servidor entre si.)
 2. Se esta metiendo un router de capa 3 en datos (puerto) de capa 4. 
 
+
+## ICMP
+ICMP se utiliza como mensajes de control. Cada uno de estos mensajes tiene un *type* y un *code*. 
+
+![[Pasted image 20221025151950.png]]
+
+ICMP le informa al emisor del estado de los paquetes, por ejemplo el router le envia un mensaje ICMP al emisor que mato un datagrama porque le quedo grande el MTU (eso para ipv6), o porque el TTL vencio. Tambien generalmente añade el cabezal y parte de la data del datagrama para que el emisor sabe que datagrama causo el error. *Tracerroute* utiliza esto. 
+
+
+
+## Redes privadas 
+
+![[Pasted image 20221027032549.png]]ç
