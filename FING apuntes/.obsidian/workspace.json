@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9482b0f7ed7d2291",
+        "id": "b10ff61b096fd88b",
         "type": "tabs",
         "children": [
           {
-            "id": "48b8c710fe5cbbb4",
+            "id": "417f5993e0198e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Notas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8b84148000b416e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd129440a4fe52c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REDES/Capa de red/Capa de control/OSPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54d2a5058e02529e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REDES/Capa de red/Capa de control/BGP.md",
+                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Capa de red/Capa de control/BGP.md",
+                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDES/Capa de red/Capa de control/BGP.md",
+                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REDES/Capa de red/Capa de control/BGP.md"
+                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md"
               }
             }
           }
@@ -173,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "54d2a5058e02529e",
+  "active": "417f5993e0198e35",
   "lastOpenFiles": [
+    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizaciones Heuritica.md",
+    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
+    "REDES/Capa de red/Capa de control/Broadcast y multicast.md",
+    "General/Notas.md",
+    "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md",
     "REDES/Capa de red/Capa de control/OSPF.md",
     "REDES/Capa de red/Capa de control/BGP.md",
-    "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md",
+    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Procesamiento de consultas.md",
     "BASE DE DATOS/Organizacion y  acceso a datos/Organizacion y acceso a datos.md",
-    "General/Notas.md",
-    "BASE DE DATOS/Dependencias funcionales/Dependencias multivaludadas y 4FN.md",
-    "REDES/Capa de red/Capa de datos/Dirrecionamiento IPv4.md",
-    "REDES/Capa de red/Capa de datos/Formato de los datagramas Ipv4.md",
-    "REDES/Capa de red/Capa de datos/Fragmentacion IPV4.md",
-    "REDES/Capa de red/Capa de control/Introducion plano de red.md"
+    "BASE DE DATOS/Dependencias funcionales/Dependencias multivaludadas y 4FN.md"
   ]
 }
