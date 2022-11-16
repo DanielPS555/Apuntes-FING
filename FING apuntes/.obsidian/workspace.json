@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b10ff61b096fd88b",
+        "id": "163c7310c9143762",
         "type": "tabs",
         "children": [
           {
-            "id": "417f5993e0198e35",
+            "id": "d3f687c6e6ab7568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
+                "file": "REDES/Capa de enlase/Tecnica de deteccion y correcion de errores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a27cd97a6a467990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 504.5,
+    "collapsed": true
   },
   "right": {
     "id": "f171ae401c4cf8d1",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md"
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md"
               }
             }
           }
@@ -136,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "417f5993e0198e35",
+  "active": "a27cd97a6a467990",
   "lastOpenFiles": [
-    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizaciones Heuritica.md",
+    "REDES/Capa de enlase/Tecnica de deteccion y correcion de errores.md",
+    "INGLES/Gramar/Future in the past.md",
+    "INGLES/Gramar/Comparativo y superlativo.md",
+    "INGLES/Vocabulary/Words.md",
+    "REDES/Capa de enlase/Introducion capa de enlase.md",
     "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
+    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizaciones Heuritica.md",
     "REDES/Capa de red/Capa de control/Broadcast y multicast.md",
     "General/Notas.md",
-    "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md",
-    "REDES/Capa de red/Capa de control/OSPF.md",
-    "REDES/Capa de red/Capa de control/BGP.md",
-    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Procesamiento de consultas.md",
-    "BASE DE DATOS/Organizacion y  acceso a datos/Organizacion y acceso a datos.md",
-    "BASE DE DATOS/Dependencias funcionales/Dependencias multivaludadas y 4FN.md"
+    "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md"
   ]
 }
