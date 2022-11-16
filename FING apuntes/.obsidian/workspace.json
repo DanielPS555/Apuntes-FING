@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "163c7310c9143762",
+        "id": "9f815658e922be35",
         "type": "tabs",
         "children": [
           {
-            "id": "d3f687c6e6ab7568",
+            "id": "cd12f9f4c338de44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Capa de enlase/Tecnica de deteccion y correcion de errores.md",
+                "file": "REDES/Capa de enlase/Redes de area local conmutadas/Introducion a Redes de area local conmutadas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a27cd97a6a467990",
+            "id": "2593d7f53adadbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
+                "file": "REDES/Capa de enlase/Redes de area local conmutadas/Dirrecionamiento de la capa de enlace y ARP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01307a016dbd736a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/Capa de enlase/Redes de area local conmutadas/Ethernet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0a0298e9c7e8089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDES/Capa de enlase/Redes de area local conmutadas/Switches.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504.5,
-    "collapsed": true
+    "width": 504.5
   },
   "right": {
     "id": "f171ae401c4cf8d1",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
+                "file": "REDES/Capa de enlase/Redes de area local conmutadas/Switches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
+                "file": "REDES/Capa de enlase/Redes de area local conmutadas/Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md"
+                "file": "REDES/Capa de enlase/Redes de area local conmutadas/Switches.md"
               }
             }
           }
@@ -150,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a27cd97a6a467990",
+  "active": "d0a0298e9c7e8089",
   "lastOpenFiles": [
+    "REDES/Capa de enlase/Redes de area local conmutadas/Ethernet.md",
+    "REDES/Capa de enlase/Redes de area local conmutadas/Dirrecionamiento de la capa de enlace y ARP.md",
+    "REDES/Capa de enlase/Redes de area local conmutadas/Introducion a Redes de area local conmutadas.md",
     "REDES/Capa de enlase/Tecnica de deteccion y correcion de errores.md",
+    "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
     "INGLES/Gramar/Future in the past.md",
     "INGLES/Gramar/Comparativo y superlativo.md",
     "INGLES/Vocabulary/Words.md",
     "REDES/Capa de enlase/Introducion capa de enlase.md",
-    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md",
-    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizaciones Heuritica.md",
-    "REDES/Capa de red/Capa de control/Broadcast y multicast.md",
-    "General/Notas.md",
-    "REDES/Capa de red/Capa de control/Algoritmo de enrutamiento.md"
+    "BASE DE DATOS/Procesamiento y optimizacion de consultas/Optimizacion por costos.md"
   ]
 }
