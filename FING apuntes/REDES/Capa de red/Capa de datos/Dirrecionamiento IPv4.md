@@ -1,6 +1,6 @@
 - Las dirreciones *ip* NO estan asociadas a un host o router, estan asociadas a una *interface* que es lo que conecta al conmutador y al enlase. 
 - Una parte de la ip estara determinada por la *subred* a la cual la interface esta conectada. 
-- En terminos de IP, una red que interconecta las interfaces de host y una interface de router se la llama *subred*. La subred tiene su propia dirrecion, por ejemplo 223.1.1.0/24 donde el 24 es lo denomina*mascara* y es la que define cuandos bit a la isquierda definen la dirrecion de la subred. 
+- En terminos de IP, una red que interconecta las interfaces de host y una interface de router se la llama *subred*. La subred tiene su propia dirrecion, por ejemplo 223.1.1.0/24 donde el 24 es lo denomina *mascara* y es la que define cuandos bit a la isquierda definen la dirrecion de la subred. 
 - Una forma grarfica de ver las subredes de una red, es sacar las interfaces de los routers y de los host (no de los switch) y ver cuales "islas" quedan colgando.
 
 

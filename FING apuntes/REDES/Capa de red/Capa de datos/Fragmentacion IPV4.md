@@ -6,4 +6,9 @@ Para la fragmentacion utilizamos una serie de cabezales que son: *indentificador
 
 Cuando se crea un *datagrama* se le asigna un numero de identificacion. A la hora que un router fragmenta , se copia su ip de origen, destino, identificador. 
 
-Luego para rensamblar se utiliza el bit *indicador*, si esta pueso en 0 indica que ese es el ultimo fragmento, sino (esta en 1) indica que ese no es el ultimo framento. Tambien se usa el campo *desplazamiento de fragmentacion* para numerar los fragmetos con el fin de ordearlos para entregarlos, o asegurarse que todos le llegaron. 
+Luego para rensamblar se utiliza el bit *indicador*, si esta pueso en 0 indica que ese es el ultimo fragmento, sino (esta en 1) indica que ese no es el ultimo framento. Tambien se usa el campo *desplazamiento de fragmentacion* para numerar los fragmetos con el fin de ordearlos para entregarlos, o asegurarse que todos le llegaron
+
+
+Es importante mirar el siguiente ejemplo a detalle, sobre todo notar que el offset no indica el byte donde comienza el fragmento, sino el octeto donde comienza 
+![[Pasted image 20221118173816.png]]
+

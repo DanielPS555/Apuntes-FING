@@ -19,7 +19,7 @@ Ademas es desable que se tengan las siguientes cualidades en un canal de difucio
 - Es un protocolo decentralizado (no hay un nodo maestro)
 - Un protocolo simple
 
-## Protocolos de particionamiento den canal
+## Protocolos de particionamiento del canal
 Para comenzar tenemos a *TDM* y *FMD*, donde el primero divide en tiempo en unidades y a estas las divide en la cantidad de emisores que hay en el canal, ejemplo M. Por lo que cada emisor tiene el canal para trasmitir libremente durante 1/M tiempo de la unidad. FDM en vez de partir por tiempo, parte el canal en frecuencia, de esta forma cada emisor tiene una m-avas partes de la banda. 
 Ambos tiene el problema que si solo un nodo esta trasmitiendo se desperdicia capacidad de trasmicion media (solo una 1/M del tiempo que podria o un 1/M del ancho de banda). Aunque tiene la ventaja que no hay colicion. 
 
@@ -71,7 +71,7 @@ El tema es elegir bien ese tiempo de forma tal que el periodo sea *menor cuando 
 
 #### backoff exponencial binario 
 La forma en la que por ejemplo ethernet soluciona esto con el algoritmo *backoff exponencial binario.* 
-La idea es simple, Tenemos un conjunto de naturales con el rango $A_n=[0, 2^{n-1}]$ donde $n$ es el numero de coliciones que se ha dado en la trama hasta el momento. Cada vez que se da una colicion se aumenta el $n$ en uno (no se aumenta por ensima de $n=10$), y se elige $K$ de forma aletoria dentro de ese conjunto ($A_n$). Notar que se elige $K$ de un conjunto que va creciendo de forma exponencial, por eso se llama "exponencial binario". Luego Ethernet espera $K.512$ periodos de bit, el cual es el tiempo que le llevaria al emisor colocar esos bit en el canal. Por ejemplo, si K = 2 y en enlase tiene una velocidad de 100Mbps, entonces se espera de unos 10,24 ms antes de volver a analizar comenzar nuevamente el proceso de sondeo del enlase y trasmision)
+La idea es simple, Tenemos un conjunto de naturales con el rango $A_n=[0, 2^{n}-1]$ donde $n$ es el numero de coliciones que se ha dado en la trama hasta el momento. Cada vez que se da una colicion se aumenta el $n$ en uno (no se aumenta por ensima de $n=10$), y se elige $K$ de forma aletoria dentro de ese conjunto ($A_n$). Notar que se elige $K$ de un conjunto que va creciendo de forma exponencial, por eso se llama "exponencial binario". Luego Ethernet espera $K.512$ periodos de bit, el cual es el tiempo que le llevaria al emisor colocar esos bit en el canal. Por ejemplo, si K = 2 y en enlase tiene una velocidad de 100Mbps, entonces se espera de unos 10,24 ms antes de volver a analizar comenzar nuevamente el proceso de sondeo del enlase y trasmision)
 
 
 #### Eficiencia de csma/cd

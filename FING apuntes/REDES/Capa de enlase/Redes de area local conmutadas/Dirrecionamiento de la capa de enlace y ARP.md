@@ -12,7 +12,7 @@ A las direcciones de la capa de enlase se las suele llamar de varias formas, *di
 
 Se diseñaron las MAC para ser fijas por adaptador, pero se puede modificar esto por software. Osea no exiten dos adaptadores con la misma dirrecion MAC. Esto es asi porque los primeros 24 bit son por compañia, y deben ser comprados a la IEEE. Los 24 bits menos significativos los administra la empresa como quiere. 
 
-La dirrecion MAX tiene una estructura plana, a diferencia de la IP, la dirrecion IP es jerarquica (parte red, parte host), y esta se modifica dependiendo de la posicion de la persona, mientras que la MAC nunca cambia. 
+La dirrecion MAC tiene una *estructura plana, a diferencia de la IP, la dirrecion IP es jerarquica* (parte red, parte host), y *esta se modifica dependiendo de la posicion de la persona, mientras que la MAC nunca cambia*. 
 
 Cuando se quiere enviar un mensaje desde un host a otro por medio de la red LAN, el emisor pone la dirrecion del otro adaptador como destino. Hay veces que los switches en vez de enviar una trama al correspondiente host, la termina enviado por todas sus interfaces. Es por eso que el host de destino cuando recive una trama debe revisar que la dirrecion MAC de destino sea la suya. Si no es la suya descarta el paquete y no lo suba a capa 3. A menos que tenga la *dirrecion de difucion* que es una dirrecion MAC especial FF-FF-FF-FF-FF-FF.
 
@@ -26,6 +26,9 @@ ARP de consulta y respuesta tiene el mismo formato.
 Como el mensaje va con la dirrecion de difucion, llega a todos los adaptadores de la subred y es procesados por todos ellos. Pero solo el adaptador que tenga como IP la buscada sera quien responda con *paquete ARP de respuesta*. Aunque en este caso no se envia esta respuesta a la dirrecion de difucion, sino a quien haya emitido la pregunta ARP. 
 
 La ubicacion del protoclo ARP en el stack de protoclos se podria ubicar entre la capa de enlase y la capa de red. Es una mecla porque va dentro de una trama, pero es de red porque tiene campos de la capa de red como la ip. Como siempre, todo una mierda. 
+
+![[Pasted image 20221201230858.png]]
+
 
 ## Envio de un datagrama fuera de la subred
 [Mirar el ejemplo del libro que esta muy bueno]

@@ -26,7 +26,7 @@ Ipv6 es una tecnologia que no es nueva, pero se esta expaniendo en todo el mundo
 - Ahora tenemos un largo fijo del header de 40 bytes
 
 ### Extension header 
-Ya que quitamos el campo de opciones de cabezal, los *extension headers*  vendran a hacer ese trabajo. Los extension heades le indican el siguiente cabezal a leer, este puede ser TCP o UDP (se mantiene los mismos numeros que en Ipv4 (TCP = 6, UDP = )). Pero puedo tener nuevos numeros. De esta forma, luego de la dirrecion de destino, se añaden segmentos que son las extenciones, que  como primera informacion tiene el next header de la siguiente extencion o de la carga util que va dentro del paquete en si. 
+Ya que quitamos el campo de opciones de cabezal, los *extension headers*  vendran a hacer ese trabajo. Los extension heades le indican el siguiente cabezal a leer, este puede ser TCP o UDP (se mantiene los mismos numeros que en Ipv4 (TCP = 6, UDP = 17 )). Pero puedo tener nuevos numeros. De esta forma, luego de la dirrecion de destino, se añaden segmentos que son las extenciones, que  como primera informacion tiene el next header de la siguiente extencion o de la carga util que va dentro del paquete en si. 
 ![[Pasted image 20221025162226.png]]
 
 Algunos de los codigos de extension headers pueden ser los siguientes: 

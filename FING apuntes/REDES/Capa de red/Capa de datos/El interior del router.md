@@ -70,7 +70,7 @@ Cuando un buffer se llena tiene dos posibles acciones:
 Debido a la exitencia de colas, tenemos que usar un *planificador de paquetes* . Mas adelante se veo eso 
 
 ### Tamaño del buffer
-Sea el RTT el tiempo promedio de ida y vuelta, y C la capacidad del enlase. Antes se pensaba que el tamaño optimo era $RTT.C$ , pero si hay N flujos TCP, se puede reducir el tamaño a $\frac{RTT.C}{N}$ 
+Sea el RTT el tiempo promedio de ida y vuelta, y C la capacidad del enlase. Antes se pensaba que el tamaño optimo era $RTT.C$ , pero si hay N flujos TCP, se puede reducir el tamaño a $\frac{RTT.C}{\sqrt{N}}$  
 
 
 

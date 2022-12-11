@@ -1,0 +1,4 @@
+- Lo unico que entendi de esto es que dirige primero fijandose en una etiqueta en vez de en una IP. 
+- Que permite que haya multiples caminos de un punto a otro. 
+- Que los ruters tiene que  tener soporte MPLS, y solo funcionan entre los routers que tiene ese soporte
+- Se puede implementar VPN sobre MPLS.
