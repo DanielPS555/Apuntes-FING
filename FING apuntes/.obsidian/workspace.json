@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDES/Introducion/Nucelo de la red.md",
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 480.5
   },
   "right": {
     "id": "f171ae401c4cf8d1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDES/Introducion/Nucelo de la red.md",
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDES/Introducion/Nucelo de la red.md",
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REDES/Introducion/Nucelo de la red.md"
+                "file": "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "9680af641cf84f22",
   "lastOpenFiles": [
-    "REDES/Introducion/Frontera de la red.md",
-    "REDES/Introducion/Conceptos basicos de redes.md",
-    "REDES/Capa de red/Capa de control/ICMP.md",
     "REDES/Capa de enlase/Redes de area local conmutadas/Switches.md",
-    "REDES/Capa de enlase/Tecnica de deteccion y correcion de errores.md",
+    "REDES/Capa de enlase/Protocolos y enlaces de acceso multiple.md",
     "REDES/Capa de enlase/Redes de area local conmutadas/Ethernet.md",
-    "REDES/Capa aplicacion/Distribucion de archivo P2P/BitTorrent.md",
-    "REDES/Capa transporte/TCP/Mecanismo de control de congestion TCP.md",
-    "REDES/Capa transporte/TCP/Estructura del segmento TCP.md",
-    "REDES/Capa transporte/Principio del control de congestion.md"
+    "REDES/Capa de enlase/Redes de area local conmutadas/Introducion a Redes de area local conmutadas.md",
+    "REDES/Capa de enlase/Redes de area local conmutadas/Dirrecionamiento de la capa de enlace y ARP.md",
+    "REDES/Capa de enlase/Tecnica de deteccion y correcion de errores.md",
+    "REDES/Capa de enlase/Virtualizacion de enlases (redes MPLS).md",
+    "REDES/Capa de enlase/Redes de area local conmutadas/VLAN.md",
+    "REDES/Capa de enlase/Introducion capa de enlase.md",
+    "REDES/Capa de red/Capa de control/Broadcast y multicast.md"
   ]
 }

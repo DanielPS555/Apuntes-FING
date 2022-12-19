@@ -5,7 +5,7 @@ HTTP en su version 1.0 no soportaba *conexiones persistentes*, por lo que todas 
 ## Conexciones no persistentes
 Este este tipo de conexcion, por cada peticion HTTP se crea una nueva conexcion con el servidor, por lo que cada vez que se quiera consultar algo se tiene que hacer el proceso de threehandshake TCP. Luego de hacer la peticion se cierra la conexcion. Se pueden realizar *conexciones TCP en paralelo*, por lo general los nevageadores permiten entre 5 a 10 de estas. 
 
-Como se tiene que crear una conexcion por cada objeto solicitado, ademas tenemos un retraso de 2 RTT por cada uno de estos objetos. 
+Como se tiene que crear una conexcion por cada objeto solicitado, ademas tenemos un retraso de `2 RTT + tiempo de tranferencia` por cada uno de estos objetos. 
 
 No se requeria de el header Content-length ya que en el stream TCP solo podria ir una peticion HTTP. Por lo que no importaba del todo saber cuando habia termiado el objeto, eso lo sabia cuando cerraba la conexcion. 
 
