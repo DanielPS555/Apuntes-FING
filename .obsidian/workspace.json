@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "6aa5af1c88d675c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1843c486d10f015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ff56d6144525bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/Clean code/Introducion clean code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae96a89e5784a371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/Clean code/Nombres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58f890825df49c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/Clean code/Estructura del codigo- Comentarios y Formateo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c23c8dec4b0198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69485fbcef1a0886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/Clean code/Estructuras de control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbcc50ac5294186e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b1e7dcde6ec521f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0443484d4e665013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b31abcaf41cf249",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ca446281d668e21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa604940e03cfb1a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "942b748ad77ae0b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ec9afb22ec66141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34b7fb547cbe558c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "527c800a3eec45d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20c436d88d4113a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2ea858953692e06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "55c23c8dec4b0198",
+  "lastOpenFiles": [
+    "FING apuntes/REDES/Capa aplicacion/Introducion Capa de aplicacion.md",
+    "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
+    "FING apuntes/Udemy/Clean code/Funciones.md",
+    "FING apuntes/REDES/Introducion/Nucelo de la red.md",
+    "FING apuntes/Udemy/Clean code/Clases y Contenedores de datos.md",
+    "FING apuntes/Udemy/Clean code/Estructuras de control.md",
+    "FING apuntes/Udemy/Clean code/Estructura del codigo- Comentarios y Formateo.md",
+    "FING apuntes/Udemy/Clean code/Nombres.md",
+    "FING apuntes/Udemy/Clean code/Introducion clean code.md"
+  ]
+}
