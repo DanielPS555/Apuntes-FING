@@ -32,4 +32,21 @@ Este es el indice de la materia redes
 	4. [[Fragmentacion IPV4]]
 	5. [[Dirrecionamiento IPv4]]
 	6. [[IPv6]]
+5. Capa de control
+	1. [[Introducion plano de Control]]
+	2. [[Algoritmo de enrutamiento]]
+	3. [[OSPF]]
+	4. [[BGP]]
+	5. [[ICMP]]
+	6. [[Broadcast y multicast]]
+6. Capa de enlase 
+	1. [[Introducion capa de enlase]]
+	2. [[Tecnica de deteccion y correcion de errores]]
+	3. [[Protocolos y enlaces de acceso multiple]]
+	4. [[Introducion a Redes de area local conmutadas]]
+	6. [[Dirrecionamiento de la capa de enlace y ARP]]
+	7. [[Ethernet]]
+	8. [[Switches]]
+	9. [[VLAN]]
+	10. [[Virtualizacion de enlases (redes MPLS)]]
 
