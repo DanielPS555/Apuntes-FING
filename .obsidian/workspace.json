@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ff56d6144525bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Udemy/Clean code/Introducion clean code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae96a89e5784a371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Udemy/Clean code/Nombres.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58f890825df49c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Udemy/Clean code/Estructura del codigo- Comentarios y Formateo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55c23c8dec4b0198",
+            "id": "e5f3337866e8c36f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +20,31 @@
             }
           },
           {
-            "id": "69485fbcef1a0886",
+            "id": "05864781e1f55e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/Udemy/Clean code/Estructuras de control.md",
+                "file": "FING apuntes/Udemy/Spring/Inversion of Control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbcc50ac5294186e",
+            "id": "1813d7ed1aa1b3ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
+                "file": "FING apuntes/Udemy/Spring/Dependency injection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/Udemy/Spring/Introduccion.md",
+                "file": "FING apuntes/Udemy/Spring/Dependency injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/Udemy/Spring/Introduccion.md",
+                "file": "FING apuntes/Udemy/Spring/Dependency injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/Udemy/Spring/Introduccion.md"
+                "file": "FING apuntes/Udemy/Spring/Dependency injection.md"
               }
             }
           }
@@ -197,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b31abcaf41cf249",
+  "active": "1813d7ed1aa1b3ee",
   "lastOpenFiles": [
+    "FING apuntes/Udemy/Spring/Inversion of Control.md",
+    "FING apuntes/Udemy/Spring/Spring containers.md",
+    "FING apuntes/Udemy/Spring/Introduccion.md",
+    "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
+    "FING apuntes/Udemy/Clean code/Estructuras de control.md",
     "FING apuntes/Udemy/Spring/Indice spring.md",
     "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
     "FING apuntes/REDES/Capa aplicacion/Introducion Capa de aplicacion.md",
-    "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
     "FING apuntes/Udemy/Clean code/Funciones.md",
-    "FING apuntes/REDES/Introducion/Nucelo de la red.md",
-    "FING apuntes/Udemy/Clean code/Clases y Contenedores de datos.md",
-    "FING apuntes/Udemy/Clean code/Estructuras de control.md",
-    "FING apuntes/Udemy/Clean code/Estructura del codigo- Comentarios y Formateo.md",
-    "FING apuntes/Udemy/Clean code/Nombres.md"
+    "FING apuntes/REDES/Introducion/Nucelo de la red.md"
   ]
 }
