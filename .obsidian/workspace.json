@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/BASE DE DATOS/Indice Base de datos.md",
+                "file": "FING apuntes/Udemy/Clean code/Nombres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69376c6f5a9cead3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/spring/Introduccion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae44a7875bca987f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/spring/Indice spring.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/BASE DE DATOS/Indice Base de datos.md",
+                "file": "FING apuntes/Udemy/spring/Indice spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/BASE DE DATOS/Indice Base de datos.md",
+                "file": "FING apuntes/Udemy/spring/Indice spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/BASE DE DATOS/Indice Base de datos.md"
+                "file": "FING apuntes/Udemy/spring/Indice spring.md"
               }
             }
           }
@@ -146,13 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d05a838ab2194f",
+  "active": "ae44a7875bca987f",
   "lastOpenFiles": [
-    "FING apuntes/Excalidraw/Esquema control de congestion TCP.md",
+    "FING apuntes/Udemy/spring/Introduccion.md",
+    "FING apuntes/Udemy/Clean code/Nombres.md",
+    "FING apuntes/Udemy/Clean code/Introducion clean code.md",
+    "FING apuntes/Udemy/Clean code/Funciones.md",
+    "FING apuntes/Udemy/Clean code/Estructuras de control.md",
+    "FING apuntes/Udemy/Clean code/Estructura del codigo- Comentarios y Formateo.md",
+    "FING apuntes/Udemy/Clean code/Clases y Contenedores de datos.md",
     "FING apuntes/BASE DE DATOS/Indice Base de datos.md",
-    "FING apuntes/BASE DE DATOS/Normalizacion/Indice Normalizacion.md",
-    "FING apuntes/Respuestas pregunta parcial 2021 redes (BORRAR).md",
-    "FING apuntes/REDES/Capa de enlase/Virtualizacion de enlases (redes MPLS).md",
-    "FING apuntes/REDES/Indice redes.md"
+    "FING apuntes/Excalidraw/Esquema control de congestion TCP.md",
+    "FING apuntes/BASE DE DATOS/Normalizacion/Indice Normalizacion.md"
   ]
 }
