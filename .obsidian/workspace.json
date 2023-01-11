@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "f30597fa8222d2bd",
+    "id": "6aa5af1c88d675c3",
     "type": "split",
     "children": [
       {
-        "id": "045fb8bb40d2a002",
+        "id": "a1843c486d10f015",
         "type": "tabs",
         "children": [
           {
-            "id": "98d05a838ab2194f",
+            "id": "1ff56d6144525bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/Clean code/Introducion clean code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae96a89e5784a371",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,45 +32,69 @@
             }
           },
           {
-            "id": "69376c6f5a9cead3",
+            "id": "58f890825df49c9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/Udemy/spring/Introduccion.md",
+                "file": "FING apuntes/Udemy/Clean code/Estructura del codigo- Comentarios y Formateo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae44a7875bca987f",
+            "id": "55c23c8dec4b0198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/Udemy/spring/Indice spring.md",
+                "file": "FING apuntes/Udemy/Spring/Introduccion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69485fbcef1a0886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Udemy/Clean code/Estructuras de control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbcc50ac5294186e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e7454640e25e92e7",
+    "id": "3b1e7dcde6ec521f",
     "type": "split",
     "children": [
       {
-        "id": "079b53e21fb0c62d",
+        "id": "0443484d4e665013",
         "type": "tabs",
         "children": [
           {
-            "id": "2a46afa0355fd78d",
+            "id": "9b31abcaf41cf249",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +104,7 @@
             }
           },
           {
-            "id": "828200ec79264075",
+            "id": "6ca446281d668e21",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +119,7 @@
             }
           },
           {
-            "id": "ee4d72a16f508d68",
+            "id": "fa604940e03cfb1a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -94,23 +130,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 300
   },
   "right": {
-    "id": "c85fa8207d4901a5",
+    "id": "942b748ad77ae0b0",
     "type": "split",
     "children": [
       {
-        "id": "eaf78db58fcdb161",
+        "id": "3ec9afb22ec66141",
         "type": "tabs",
         "children": [
           {
-            "id": "0b25e3a13f7324c7",
+            "id": "34b7fb547cbe558c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/Udemy/spring/Indice spring.md",
+                "file": "FING apuntes/Udemy/Spring/Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +158,19 @@
             }
           },
           {
-            "id": "0570882c21d53159",
+            "id": "527c800a3eec45d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/Udemy/spring/Indice spring.md",
+                "file": "FING apuntes/Udemy/Spring/Introduccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "69b91189f0c2dad8",
+            "id": "20c436d88d4113a3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +181,12 @@
             }
           },
           {
-            "id": "67b14fa80164c716",
+            "id": "c2ea858953692e06",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/Udemy/spring/Indice spring.md"
+                "file": "FING apuntes/Udemy/Spring/Introduccion.md"
               }
             }
           }
@@ -161,27 +197,17 @@
     "width": 300,
     "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
-  },
-  "active": "ae44a7875bca987f",
+  "active": "9b31abcaf41cf249",
   "lastOpenFiles": [
-    "FING apuntes/Udemy/spring/Introduccion.md",
-    "FING apuntes/Udemy/Clean code/Nombres.md",
-    "FING apuntes/Udemy/Clean code/Introducion clean code.md",
+    "FING apuntes/Udemy/Spring/Indice spring.md",
+    "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
+    "FING apuntes/REDES/Capa aplicacion/Introducion Capa de aplicacion.md",
+    "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
     "FING apuntes/Udemy/Clean code/Funciones.md",
+    "FING apuntes/REDES/Introducion/Nucelo de la red.md",
+    "FING apuntes/Udemy/Clean code/Clases y Contenedores de datos.md",
     "FING apuntes/Udemy/Clean code/Estructuras de control.md",
     "FING apuntes/Udemy/Clean code/Estructura del codigo- Comentarios y Formateo.md",
-    "FING apuntes/Udemy/Clean code/Clases y Contenedores de datos.md",
-    "FING apuntes/BASE DE DATOS/Indice Base de datos.md",
-    "FING apuntes/Excalidraw/Esquema control de congestion TCP.md",
-    "FING apuntes/BASE DE DATOS/Normalizacion/Indice Normalizacion.md"
+    "FING apuntes/Udemy/Clean code/Nombres.md"
   ]
 }
