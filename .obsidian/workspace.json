@@ -161,9 +161,20 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "1813d7ed1aa1b3ee",
   "lastOpenFiles": [
     "FING apuntes/Udemy/Spring/Inversion of Control.md",
+    "FING apuntes/Udemy/Spring/Dependency injection.md",
     "FING apuntes/Udemy/Spring/Spring containers.md",
     "FING apuntes/Udemy/Spring/Introduccion.md",
     "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
@@ -171,7 +182,6 @@
     "FING apuntes/Udemy/Spring/Indice spring.md",
     "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
     "FING apuntes/REDES/Capa aplicacion/Introducion Capa de aplicacion.md",
-    "FING apuntes/Udemy/Clean code/Funciones.md",
-    "FING apuntes/REDES/Introducion/Nucelo de la red.md"
+    "FING apuntes/Udemy/Clean code/Funciones.md"
   ]
 }
