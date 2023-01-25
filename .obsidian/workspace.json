@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a1843c486d10f015",
+        "id": "b00ec0c66056bf39",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f3337866e8c36f",
+            "id": "7f8cc7b958fa9ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/Udemy/Spring/Introduccion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05864781e1f55e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Udemy/Spring/Inversion of Control.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1813d7ed1aa1b3ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Udemy/Spring/Dependency injection.md",
+                "file": "Udemy/Spring/Java Annotations/Bean Scopes con Annotations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 512.5
   },
   "right": {
     "id": "942b748ad77ae0b0",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/Udemy/Spring/Dependency injection.md",
+                "file": "Udemy/Spring/Java Annotations/Bean Scopes con Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/Udemy/Spring/Dependency injection.md",
+                "file": "Udemy/Spring/Java Annotations/Bean Scopes con Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/Udemy/Spring/Dependency injection.md"
+                "file": "Udemy/Spring/Java Annotations/Bean Scopes con Annotations.md"
               }
             }
           }
@@ -171,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1813d7ed1aa1b3ee",
+  "active": "7f8cc7b958fa9ea1",
   "lastOpenFiles": [
-    "FING apuntes/Udemy/Spring/Inversion of Control.md",
-    "FING apuntes/Udemy/Spring/Dependency injection.md",
-    "FING apuntes/Udemy/Spring/Spring containers.md",
-    "FING apuntes/Udemy/Spring/Introduccion.md",
-    "FING apuntes/REDES/Introducion/Retardos, Perdida y Tasa de tranferencia.md",
-    "FING apuntes/Udemy/Clean code/Estructuras de control.md",
-    "FING apuntes/Udemy/Spring/Indice spring.md",
-    "FING apuntes/REDES/Capa aplicacion/HTTP/Introducion HTTP.md",
-    "FING apuntes/REDES/Capa aplicacion/Introducion Capa de aplicacion.md",
-    "FING apuntes/Udemy/Clean code/Funciones.md"
+    "2023-01-23.md",
+    "Udemy/Spring/Bean scopes y LifeCycle.md",
+    "Udemy/Spring/Dependency injection.md",
+    "2023-01-24.md",
+    "Scanntech/Precios/B3PRE-285.md",
+    "Udemy/Spring/Java Annotations/Bean Scopes con Annotations.md",
+    "Udemy/Spring/Java Annotations/Dependency injection con Annotations.md",
+    "Udemy/Spring/Inversion of Control.md",
+    "Udemy/Spring/Introduccion.md",
+    "Scanntech/Precios/B3PRE-286.md"
   ]
 }
