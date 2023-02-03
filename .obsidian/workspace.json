@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "6aa5af1c88d675c3",
+    "id": "b3d89cd92877b1b4",
     "type": "split",
     "children": [
       {
-        "id": "23fe44d5244c14f8",
+        "id": "718afb203a3336c6",
         "type": "tabs",
         "children": [
           {
-            "id": "4e3b29585554bafe",
+            "id": "95b25a52a0943795",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Udemy/Spring/Configuracion con java code.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3b1e7dcde6ec521f",
+    "id": "d846fd6e230f9036",
     "type": "split",
     "children": [
       {
-        "id": "0443484d4e665013",
+        "id": "f940c081bc30f83e",
         "type": "tabs",
         "children": [
           {
-            "id": "9b31abcaf41cf249",
+            "id": "07c6f22b9329c0d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "6ca446281d668e21",
+            "id": "0ddab449915c8b41",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "fa604940e03cfb1a",
+            "id": "24cab3ec12c04ee1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 300
   },
   "right": {
-    "id": "942b748ad77ae0b0",
+    "id": "85ed1a2fede2a5ab",
     "type": "split",
     "children": [
       {
-        "id": "3ec9afb22ec66141",
+        "id": "b698b9e68dcbea65",
         "type": "tabs",
         "children": [
           {
-            "id": "34b7fb547cbe558c",
+            "id": "7caac307cd98a35b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udemy/Spring/Configuracion con java code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "527c800a3eec45d4",
+            "id": "3a35eb14432b7534",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udemy/Spring/Configuracion con java code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "20c436d88d4113a3",
+            "id": "eff7ef33a54453cb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "c2ea858953692e06",
+            "id": "e3b8eb2d7ca22d4f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Udemy/Spring/Configuracion con java code.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,27 +128,6 @@
     "width": 300,
     "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
-  },
-  "active": "4e3b29585554bafe",
-  "lastOpenFiles": [
-    "Udemy/Spring/Configuracion con java code.md",
-    "Udemy/Spring/Java Annotations/Introduccion java anottations y Inversion of Control con Annotations.md",
-    "Udemy/Spring/Java Annotations/Dependency injection con Annotations.md",
-    "Udemy/Spring/Java Annotations/Bean Scopes con Annotations.md",
-    "Scanntech/Precios/B3PRE-263.md",
-    "Scanntech/Precios/B3PRE-293.md",
-    "Scanntech/Precios/B3PRE-290.md",
-    "Scanntech/Precios/B3PRE-289.md",
-    "Scanntech/Precios/B3PRE-288.md",
-    "Scanntech/Precios/B3PRE-287.md"
-  ]
+  "active": "95b25a52a0943795",
+  "lastOpenFiles": []
 }
