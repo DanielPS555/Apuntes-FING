@@ -1,0 +1,3 @@
+[Arquitectura e impresiones 3D en Uruguay - Universidad ORT Uruguay](https://fa.ort.edu.uy/novedades/arquitectura-impresion-3d-uruguay)
+[Impresión 3D: la próxima disrupción en la industria (elobservador.com.uy)](https://www.elobservador.com.uy/nota/impresion-3d-la-proxima-disrupcion-en-la-industria-2017726500)
+[Inauguración de Sinergia Tech - C-EMPRENDEDOR](http://www.c-emprendedor.gub.uy/noticia.php?id=51)
