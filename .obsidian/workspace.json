@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "e52b31f6c3feef85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scanntech/Precios/B3PRE-293.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c1820db74767ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scanntech/Precios/B3PRE-289.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "85ed1a2fede2a5ab",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scanntech/Precios/B3PRE-289.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scanntech/Precios/B3PRE-289.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scanntech/Precios/B3PRE-289.md"
+              }
             }
           }
         ]
@@ -128,6 +157,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "95b25a52a0943795",
-  "lastOpenFiles": []
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c1820db74767ea8",
+  "lastOpenFiles": [
+    "Scanntech/Precios/B3PRE-288.md",
+    "Scanntech/Precios/B3PRE-286.md",
+    "Scanntech/Precios/B3PRE-287.md",
+    "Scanntech/Precios/B3PRE-263.md",
+    "Scanntech/Precios/B3PRE-285.md",
+    "Scanntech/Precios/B3PRE-289.md",
+    "Scanntech/Precios/B3PRE-290.md",
+    "Scanntech/Precios/B3PRE-292.md",
+    "Scanntech/Precios/B3PRE-293.md",
+    "2023-01-24.md"
+  ]
 }
