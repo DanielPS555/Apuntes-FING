@@ -31,14 +31,28 @@
             "id": "a0362f6e3d162fc8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "FING apuntes/CTS/Sitios a revisar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "473a6cdef3118375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/CTS/Algunas citas para el trabajo de CTS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "85ed1a2fede2a5ab",
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/CTS/Sitios a revisar.md",
+                "file": "FING apuntes/CTS/Algunas citas para el trabajo de CTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/CTS/Sitios a revisar.md",
+                "file": "FING apuntes/CTS/Algunas citas para el trabajo de CTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/CTS/Sitios a revisar.md"
+                "file": "FING apuntes/CTS/Algunas citas para el trabajo de CTS.md"
               }
             }
           }
@@ -165,8 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0362f6e3d162fc8",
+  "active": "473a6cdef3118375",
   "lastOpenFiles": [
+    "FING apuntes/CTS/Sitios a revisar.md",
+    "2023-02-01.md",
+    "2023-02-02.md",
+    "2023-01-30.md",
     "Udemy/Clean code/Clases y Contenedores de datos.md"
   ]
 }
