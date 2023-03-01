@@ -22,3 +22,4 @@ Utilizado para almacenar la informacion. Tanto en sistemas como bases de datos, 
 
 ### View template
 Permite crear template para las paginas web. Los mas comunes con JSP + JSTL. Esta eleccion es muy flexible. 
+
