@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "big-math"
+  ]
 }

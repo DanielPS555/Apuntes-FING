@@ -21,33 +21,100 @@ Sucede que se puede construir conjutos y funciones convexas mas complejas en bas
 
 # Definiciones 
 
-Un conjunto C en $R^n$ se dice convexo si contiene todos los segmentos de recta entre puntos en C. [Definicion intutiva]
+#### Conjunto convexo
+*Definicion intuitiva* 
+Un conjunto C en $R^n$ se dice convexo si contiene todos los segmentos de recta entre puntos en C. 
 
-Osea dado un punto $x$ y un punto $y$, buscamos que para todo $\lambda$
+*Definicion formal*
+C en $R^n$ es un conjunto convexo si $\forall x,y \in C$ , $\lambda \in [0,1]$ $(1-\lambda).x + \lambda.y \in C$ 
 
-Def formal: C en $R^n$ es un conjunto convexo si $(1-\lambda).x + \lambda.y \in C$ $\forall x,y \in C$ y $\lambda \in [0,1]$
+![[Clase 1-3 -- Convexidad 2023-03-02 01.20.33.excalidraw]]
 
+
+#### Funcion convexa
+*Definicion intuitiva*
 Una funcion `f` en un conjunto convexto C es convexa si esta por debajo de sus cuerdas. 
 
-![[Pasted image 20230301142121.png]]
+![[Drawing 2023-03-02 01.11.50.excalidraw]]
 
-Def formal: f:$C \rightarrow R$ convexa es conxea si 
-$f((1-\lambda)x + \lambda.y ) \leq (1-\lambda).f(x) + \lambda.f(y)$  $\forall x,y \in C$ y $\lambda \in [0,1]$ 
+*Definicion formal*
+Sea $f : C \rightarrow R$ es conxea si 
+$\forall x,y \in C$ y $\lambda \in [0,1]$  $f[(1-\lambda)x + \lambday ] \leq (1-\lambda).f(x) + \lambda.f(y)$  
+
+# Teoremas
+
+#### Teorema 1
+Sea los conjuntos `C` y `D` convexsos, y $\alpha \in \mathbb{R}$. 
+Entonces los siguientes conjuntos cambien son conexsos:
+1. $\alpha C = \{ \alpha x : x \in C \}$ 
+2. $C \cap D$ 
+3. $C + D$
+
+##### Demo
+Buscamos que se cumpla la def de conjunto conexo. 
+Osea $\forall x, y \in \alpha C$, $\forall \lambda \in [0,1]$,  $(1 - \lambda)x + \lambda y \in \alpha C$
+
+Tomemos $x, y \in \alpha C$ cualquiera
+$\Rightarrow x_1, y_1 \in C$ tal que $x = \alpha x_1$ y $y = \alpha y_1$ 
+Como C es convexo 
+	$\Rightarrow$ $\forall \lambda \in [0,1]$ $(1 - \lambda) x_1 + \lambda y_1 \in C$ 
+	$\Rightarrow$ $\alpha (( 1 - \lambda )x_1 + \lambda y_1) \in \alpha C$ 
+	$\Rightarrow$ $(1-\lambda)x + \lambda y \in \alpha C$    #
+
+#### Teorema 2
+Sean `f` y `g` funciones conexas en el conjunto convexto C y $\alpha \geq 0$
+
+Entonces las siguientes funciones con conexas
+1. $f + g$
+2. $\alpha f$ 
+
+#### Teorema 3
+Sea $f : C \rightarrow \mathbb{R}$. 
+
+$f$ es conexa sii $\forall x, y \in C$,  $\lambda \leq 0$ o $\lambda \geq 1$ $f[ (1-\lambda)x + \lambda y ] \geq (1 - \lambda) f(x) + \lambda f(y)$ 
+
+En otras palabras, a la isquierda de x y a la derecha de y, la funcion este por ensima de la cuerda. 
 
 
+#### Teorema 4
+Sea $f : I \rightarrow \mathbb{R}$ en un intervalo $I \subset \mathbb{R}$ es conexo si 
 
-### Teorema 
-Sea C y D convexsos, $\alfa \ in R$ Entonces los siguientes conjuntos son convexos
-1. $\alfa$
-
-
-
+$\forall x,y \in I$ se cumple que $\frac{f(y) - f(x)}{y-x} \geq f`(x)$
+![[Clase 1-3 -- Convexidad 2023-03-02 01.57.25.excalidraw]]
 
 
+#### Teorema 5
+Sea $f:I \rightarrow \mathbb{R}$ diferenciable es convexa en $I$ sii $f'$ no decreciente 
+
+**Importante**: Ninguna de estos teoremas se usan para una mierda menos el 1º, los dos que importan son los siguientes: 
 
 
+#### Teorema 6
+Una funcion 2 veces diferenciable $f : I \rightarrow \mathbb{R}$ 
+$\Rightarrow$ f convezo en $I$ si $f'' \geq 0$ 
+
+![[Clase 1-3 -- Convexidad 2023-03-02 02.07.20.excalidraw]]
 
 
+#### Teorema 7
+Sea $f : I \rightarrow \mathbb{R}^n$ dos veces diferenciables. 
 
+$f$ es convenxa si $H$ (matriz hessiana) es semidefinida positiva.
 
+Recordar que:
 
+- Una matriz es semidefinida positiva sii $\forall Y \in \mathbb{R}^n$, $Y^T H Y \geq 0$ 
+
+- $$\begin{equation}
+H = 
+\begin{pmatrix}
+
+\frac{\partial^2 f}{\partial x^2} & \frac{\partial^2 f}{\partial y \partial x} \\  
+\frac{\partial^2 f}{\partial x \partial y} & \frac{\partial^2 f}{\partial y^2} \\  
+
+\end{pmatrix}
+
+\end{equation}$$
+Un ejemplo: 
+
+![[Clase 1-3 -- Convexidad 2023-03-01 23.50.27.excalidraw]]
