@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7f589c4b97630dd7",
+        "id": "67cadae68f297a91",
         "type": "tabs",
         "children": [
           {
-            "id": "5cbb561e65fc9ee3",
+            "id": "9b3d4a6e66b9ab07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fd8b5679d1b9500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1.md"
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md"
               }
             }
           }
@@ -148,22 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cbb561e65fc9ee3",
+  "active": "8fd8b5679d1b9500",
   "lastOpenFiles": [
-    "Pasted image 20230302225542.png",
-    "Pasted image 20230302224727.png",
-    "Pasted image 20230302220754.png",
-    "Pasted image 20230302215816.png",
-    "Pasted image 20230302215552.png",
-    "Pasted image 20230302215351.png",
-    "Pasted image 20230302215342.png",
-    "Pasted image 20230302213612.png",
+    "Pasted image 20230305025850.png",
+    "Pasted image 20230305025120.png",
+    "Pasted image 20230305015619.png",
+    "Pasted image 20230305005047.png",
+    "Pasted image 20230305004716.png",
+    "Pasted image 20230304232340.png",
+    "Pasted image 20230304220141.png",
+    "Pasted image 20230304212551.png",
+    "Pasted image 20230304205500.png",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+    "Pasted image 20230304002241.png",
+    "FING apuntes/IIS/Resuemens libro",
+    "FING apuntes/IIS",
     "FING apuntes/AGPI/Resumenes del libro/Capitulo 1.md",
-    "Pasted image 20230302205311.png",
+    "Pasted image 20230302225542.png",
     "FING apuntes/IIO/Indice IIO.md",
     "FING apuntes/INGLES/Indice ingles.md",
-    "Pasted image 20230302203804.png",
-    "Pasted image 20230302195205.png",
     "Scanntech/Precios/Indice precios.md",
     "Udemy/Clean code/Indice clean code.md",
     "Udemy/Cursos Udemy.md",
@@ -188,8 +205,6 @@
     "FING apuntes/Materias posibles/Materias opcionales 7º semestre.md",
     "FING apuntes/INGLES/Gramar/Linkers.md",
     "FING apuntes/REDES/Capa aplicacion/Distribucion de archivo P2P/Introducion a P2P.md",
-    "FING apuntes/REDES/Capa aplicacion/Distribucion de archivo P2P/Indice P2P.md",
-    "FING apuntes/REDES/Capa aplicacion/Distribucion de archivo P2P/BitTorrent.md",
-    "FING apuntes/Materias posibles/Grupos.md"
+    "FING apuntes/REDES/Capa aplicacion/Distribucion de archivo P2P/Indice P2P.md"
   ]
 }
