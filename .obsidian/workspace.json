@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d83c774ae8dc22e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Programacion funcional/Clase 1 - ProgFun - Introduccion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cfdec2e04e6684a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Programacion funcional/Clase 2 - Prog fun - definiciones y tipos basicos de Haskell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21018a9a1274654a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md"
+                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md"
               }
             }
           }
@@ -161,8 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fd8b5679d1b9500",
+  "active": "21018a9a1274654a",
   "lastOpenFiles": [
+    "Pasted image 20230305220810.png",
+    "Pasted image 20230305213608.png",
+    "Pasted image 20230305165941.png",
+    "FING apuntes/Programacion funcional/Clase 2 - Prog fun - definiciones y tipos basicos de Haskell.md",
+    "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
+    "Pasted image 20230305163142.png",
+    "FING apuntes/Programacion funcional/Clase 1 - ProgFun - Introduccion.md",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+    "FING apuntes/Programacion funcional",
     "Pasted image 20230305025850.png",
     "Pasted image 20230305025120.png",
     "Pasted image 20230305015619.png",
@@ -170,15 +215,10 @@
     "Pasted image 20230305004716.png",
     "Pasted image 20230304232340.png",
     "Pasted image 20230304220141.png",
-    "Pasted image 20230304212551.png",
-    "Pasted image 20230304205500.png",
     "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
-    "Pasted image 20230304002241.png",
     "FING apuntes/IIS/Resuemens libro",
     "FING apuntes/IIS",
     "FING apuntes/AGPI/Resumenes del libro/Capitulo 1.md",
-    "Pasted image 20230302225542.png",
     "FING apuntes/IIO/Indice IIO.md",
     "FING apuntes/INGLES/Indice ingles.md",
     "Scanntech/Precios/Indice precios.md",
@@ -202,9 +242,6 @@
     "FING apuntes/IIO",
     "2023-02-03.md",
     "FING apuntes/INGLES/Gramar/Future in the past.md",
-    "FING apuntes/Materias posibles/Materias opcionales 7º semestre.md",
-    "FING apuntes/INGLES/Gramar/Linkers.md",
-    "FING apuntes/REDES/Capa aplicacion/Distribucion de archivo P2P/Introducion a P2P.md",
-    "FING apuntes/REDES/Capa aplicacion/Distribucion de archivo P2P/Indice P2P.md"
+    "FING apuntes/Materias posibles/Materias opcionales 7º semestre.md"
   ]
 }

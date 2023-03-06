@@ -205,7 +205,7 @@ Las etapas son:
 - *Process analysis*: Se analisa cuales son los problemas del proceso actual, y se lo documenta
 - *Process change*: Se cambia el proceso en las cosas identificadas en el analisis. 
 
-Se puede medir el nivel de madures del proceso via un sistema de 5 niveles.  
+Se puede medir el nivel de madures del proceso via un sistema de 5 niveles (llamado Humphrey’s model).  
 ![[Pasted image 20230305025850.png]]
 
 1. *Initial*:  The goals associated with the process area are satisfied, and for all processes the scope of the work to be performed is explicitly set out and communicated to the team members.
