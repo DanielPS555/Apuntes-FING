@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+                "file": "FING apuntes/IIO/Optimizacion/Clase 3 - IIO - 6.3.2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
