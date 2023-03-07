@@ -7,11 +7,11 @@ COmo ya se dijo no hay metodo de ingenieria de software generico para todo tipo 
 - Software evolution
 
 Cuando se descrive un proceso de software, tambien hay que describir otras cosas aparte de las actividades, alguna de estas son:
-- Q*ue productos se va a tener como resultado de el proceso *
+- *Que productos se va a tener como resultado de el proceso *
 - *Los roles*. Los cuales descriven las responsabilidades de las personas involucradas 
 - *pre y post condiciones que se deben cumplir para las actividades del proceso*. Ej: El consumidor debe haber aprobado los requerimientos antes del diseño de la arquitectura. Y un ejemplo de post condicion es que los modelos UML deben haber sido verificados luego del diseño de la arquitectura. 
 
-#### Plan-driven process vs Agile process
+#### Plan-driven process (proceso basado en planes) vs Agile process
 En el primero el software process ya esta definido, y de definen metricas para medir el progreso contra el plan. 
 En los Agile process, el plan es incremental, y se lo va diseñando a medida que se avanza en el proyecto.
 
@@ -26,6 +26,8 @@ Vamos a ver 3 modelos:
 - *The waterfall model* 
 - *Incremental development*
 - *Integration and configuration*
+
+En la practica se usa un poco de cada uno. 
 
 Uno de los mejores intentos de un process univeral es uno llamado *Rational Unified process* (RUP).
 
@@ -42,6 +44,8 @@ Fue el primer proceso de software publicado. Tiene multiples etapas las cuales s
 - *Operativa y mantenimiento*: La parte mas larga, se pone el sistema en produccion, se hace mantenimiento arregando los errores no descubiertos hasta ahora, mejorando la implementacion de las unidades del sistema. 
 
 En estos sistemas no se puede pasar a la siguiente etapa hasta haber terminado la anterior. 
+
+Un problema grande con esto es que es mas caro hacer un cambio cuando el software esta terminado que cuando una pequeña parte del sistea esta construido. 
 
 Pasa que en la operativa comun, las etapas de mescaln y en realidad una etapa anterior puede resibir un feedback de la siguiente en base a algo no previsto en la etapa previa, ejemplo que hay requerimientos faltantes o contradictorios. 
 
@@ -67,6 +71,7 @@ Este modelo tiene las siguientes *ventajas* que el modelo en casacada:
 - Es mas facil conseguir feedback de los clientes hacerca del desarrolo hecho.
 - Es mas facil liberar software usable lo antes posible. Aunque no tenga toda la funcionalidad. 
 Las desventajas (sobre todo a nivel de gestion) que tiene son: 
+- Tiene mucho mas costo el testing, ya que se comienza a repetir pruebas.  
 - No es visible el progreso global.
 - La estructura del proyecto tiene a degradesarse a medida que se avanza en las nuevas versiones. En las metodologias agiles lo que se hace es hacer refactors periodicamente.
 
@@ -78,7 +83,7 @@ Este modelo se enfoca en la reutilizacion y configuracion.
 ![[Pasted image 20230304220141.png]]
 
 1. *Requirements specification*:  Son los requerimientos iniciales del sistema. No tiene que ser muy detallados pero debe tener los requerimientos esenciales esperables del sistema. 
-2. *Software discovery and evaluation*: A partir de la etapa anterior de comienza a buscar sistemas y componentes, los cuales son evaluados para ver si son candidatos a satifacer los requerimientos.
+2. *Software discovery and evaluation*: A partir de la etapa anterior de comienza a buscar sistemas y componentes, los cuales son evaluados para ver si son candidatos a satifacer los requerimientos, tambien se evalua el costo de los mismos (en caos que tenga un precio), y ademas si el mismo sigue siendo mantenido o no por quien lo desarrolo.
 3. *Requirements refinement*: En base a los requerimientos iniciales, estos mismos son refinados a los componentes/sistemas encontrados. Si hay modificaciones que no son posibles, se debe volver a la etapa inicial. 
 4. *Aplication system configuration*: Si se encuentra un sistema que cumpla con los requerimientos, en mismo se configura para crear el nuevo sistema. 
 5. *Component adaptation and integration:* Si no se encuentra un sistema, se modifica los componentes encontrados y los que sean necesarios para el sistema. Luego todos ellos son integrados en el sistema. 
@@ -90,6 +95,14 @@ Este modelo es frecuentement utilizado en los siguientes casos:
 - Collecion de objetos que son desarrolados como componentes o paquetes para ser integrados a un `component framework`.
 - Servicios web que se desarrollan de acuerdo a estándares de servicio y que son
 disponible para la invocación remota a través de Internet [ Traduccion textual, no tengo idea a que se refiere ]
+
+A nivel de ventas:
+- Se reduccen costos ya que no se desarrola de cero
+- Se entrega el producto mas rapido
+- Tiene por lo general mucho testing
+A nivel de desventajas:
+- Puede que el componente no tenga todos los requerimientos
+- Perdemos control del componente encuando a su desarrolo futuro. 
 
 ## Process activities
 
@@ -130,7 +143,7 @@ Por lo general la programacion y el diseño son actividades que estar intervalad
 
 
 ### Software valitation
-Se basa en la verificacion y validacion del sistema, de acuerdo a la espectativas del cliente. 
+Se basa en la *verificacion* y *validacion* del sistema, de acuerdo a la espectativas del cliente. 
 
 Hay 3 tipos de etapas en el testing:
 1. *Component Testing*: Son pruebas unitarias de los componentes del sistema y son teteadas por los desarroladores. 
@@ -138,6 +151,8 @@ Hay 3 tipos de etapas en el testing:
 3. *Customer testing*: Ahora el sistema es probado por un cliente con informacion de prueba. De esta forma se puede asegurar que realmente el software cumple con los requerimietos reales de los clientes. 
 
 En la metodologia agil las pruebas de tipo `Component testing` son definidas antes de comenzar con el desarrolo. 
+
+Importante: La *verificacion* es probar que los requerimientos se cumplan o no. Mientras que la *validacion* es que el producto cumpla con las necesaidades del cliente, independientemente que cumpla con todos los requerimientos (no responde a la espesificacion). Osea que la validacion siempre presisamos la contrapartida del cliente 
 
 El *V-Model* muestra que prueba de esta etapa valida cada etapa de el modelo de tipo cascada
 
@@ -156,7 +171,7 @@ De todas formas los cambios generlamente involucran que partes del sistema que h
 
 Hay dos buenos encares para reducir los costos del `rework`: 
 - *Change anticipation*:  Cuando en el software process se incluyen actividades para anticipar o predecir posibles cambios que podrian requerir rework. 
-- *Change tolerance*: Que el software este diseñado para que los cambios puedan ser facilmente hechos. 
+- *Change tolerance*: Que el software process este diseñado para que los cambios puedan ser facilmente hechos. 
 
 Un par de ejemplos para estos encares podrian ser *System prototyping* y *Incremental delivery*. 
 
@@ -166,6 +181,7 @@ Un prototipo es una version del sistema utilizada para demostrar conceptos, prob
 Un prototipo ayuda a poder anticipar cambios:
 - Puede ayudar en la `requierement engineering process`, ayuda en la recoleccion de requerimientos y en la validacion de los mismos. 
 - En el `design process` se puede utilizar para encontrar soluciones en el desarrolo, por ejemplo las interfaces de usuario. 
+- Para el proceso de pruebas. Para ejecutar pruebas de "back to back":  Esto por ejemplo es utilizando cuando se esta sustituyendo un sistema antigo, se crean prototipos del sistema actual, y se compara el nuevo sistemas con el prototipo
 
 En el siguiente digrama se resume el conjunto de etapas para desarrolar un prototiopo: 
 ![[Pasted image 20230305015619.png]]
@@ -173,10 +189,23 @@ En el siguiente digrama se resume el conjunto de etapas para desarrolar un proto
 Los primero es definir los objetivos del prototipo, y funcionalidades. Teniendo cuidado de cuales objetivos se dejan fuera del prototipo. 
 Luego se procede con el desarrolo del mismo y por ultimo en base a los objetivos del prototipo se lo evalua en base al uso del usuario final. Hay que tener cuidado que al no ser el prototipo el producto final, puede ser que determinados funcionamientos hagas que el usuario se desvie de el objetivo del prototipo. Por ejemplo que al una funcionalidad ir muy lenta, deje de probarla. 
 
+Bedeficios prototipado:
+- Mejor usabilidad derl sistema
+- Obtiene una mierda mas certera de las reales neceisdades del cliente
+- Mejora la calidad del diseño
+- Mejora la mantenibilidad
+- Reduce el esfuerzo en retrabajo
+
+**Importante**: Los prototiopos deben ser descartados si no confirman una buena base para el sistema en produccion
+
+> La deuda tecnica es la deuda que uno adquirre de no desarrolar determinada parte del producto, y luego desarrolarla es mucho mas cargo que si se hubiera desarrolado desde un principio. [Def de la clase super informal]
+
 ### Incremental delivery
 - Es un encare que se utiliza para liberar algunas versiones del producto al uso del cliente. 
 - En caso de utilizar este mecanismo, esta bueno definir con el cliente que requerimientos tiene mas o menos importancia con el fin de priorisar estas liberaciones primero.  
 - En la iteracion actual se tiene que tener los requerimientos definidos a detalle. No se aceptan nuevos requerimientos para la interacion actual, si para futuras. Osea cuando se desarrola lo pactado se libera y recien ahi se introducen al proceso de diseño (y los siguientes) los nuevos requerimientos. 
+
+![[Pasted image 20230306193020.png]]
 
 Algunas ventajas: 
 - Pueden usar las primeras versiones como prototipos para irse familiarisando con el sistema. Y ademas no tiene que volver a aprender como funciona el sistema ya que estas funcionalidades son parte del sistema de verdad.
@@ -186,32 +215,39 @@ Algunas ventajas:
 
 Alguas desventajas: 
 - Es complicado la implementacion de estos sistemas cuando se esta construyendo un sistema que va a remplasar a otro. Los usuarios se niegan a usarlo por falta de funcionalidades. 
-- Al no tener todos los requerimietos, es dificil identificar el conjunto de recursos que se requiere en todas las interaciones [Ni en español entendi a que se refiere]
+- A medida que va evolucionando el sistema, los distintos modulos utilizan un `core` con la funcionalidad comun. Si el core se va actualizando a medida que surgen los requerimientos, entonces la calidad del core se va degradando y eso es un problema porque impacta en todos los modulos. La idea es que el core sea desarrolado de priemra. Lo mejor seria definir ese core desde un inicio.
 - Entra en conflicto con la forma de trabajar de muchas organizaciones. Las cuales por ejemplo antes de comenzar a trabajar en un proeyecto requieren saber todos los requerimientos. 
 
 ## Process improvement 
 
 Hoy en dia se demanda mejor software, mas barato y mas rapido. 
-En consecuencia hay dos ramas que han estado enfocados en mejorar algunos de estos aspectos. 
 
-- *Process maturity approach*: La idea es introducir buenas practicas de ingenieria de software. Sobre todo se enfocan en mejorar la calidad de los productos y la predicibilidad de los procesos. Eso introduce actividades que no tiene que ver directamente con el desarrolo. Por lo que introduce costos (no solo economicos, sino en tiempo) que se podrian eliminar.
+*Importante*: La mejora de procesos significa entender los procesos existentes y cambiar dichos procesos para mejorar la *calidad del producto* y/o *reducir costos* y *tiempos de desarrolo*
+
+En consecuencia hay dos enfoques acerca de la mejora de procesos:
+
+- *Process maturity approach*: La idea es introducir buenas practicas de ingenieria de software. Sobre todo se enfocan en mejorar la calidad de los productos y la predicibilidad de los procesos. Eso introduce actividades que no tiene que ver directamente con el desarrolo. 
+  Por lo que introduce costos (no solo economicos, sino en tiempo) que se podrian eliminar.
+  Aqui es importante tener escritos los procesos a detalle. 
+  
 - *Agile approach*: Se enfoca en un estilo de desarrolo iterativo, para liberar rapidamente el producto. Se tiene por ejemplo a disminuir al minimo la documentacion
 
 En el caso de el `Process maturity approach` la forma para iimplementarlo es mediante un proceso ciclico de la siguiente figura: 
 ![[Pasted image 20230305025120.png]]
 
 Las etapas son: 
-- *Process measurement*:  Se intenta medir via atributos la efectividad del proceso de mejora del software. Se esa forma se ve si el proceso va mejorando o no. 
+- *Process measurement*:  Se intenta medir via atributos la efectividad del proceso de mejora del software. Se esa forma se ve si el proceso va mejorando o no. Se piden los atributos que mas nos importa.
+   Se deben recolectar datos *cualitativos* dentro de lo posible. Antes de tomar las medidas se debe tener escrito el proceso. Estas mediciones se usan para segurar la mejora del proceso. 
+   Las medidas no deben guiar las mejoras, las medidas sirven de guia en base a los objetivos organizacionales. 
+	Algunas ``metricas`` pueden ser:
+		- Tiempo en completar el proces
+		- Recursos requeridos 
+		- Canrtidad de ocurrencias de un evento particular (EJ: cantidad de defectos descubiertos)
+
 - *Process analysis*: Se analisa cuales son los problemas del proceso actual, y se lo documenta
 - *Process change*: Se cambia el proceso en las cosas identificadas en el analisis. 
 
-Se puede medir el nivel de madures del proceso via un sistema de 5 niveles (llamado Humphrey’s model).  
+Se puede medir el nivel de madures del proceso via un sistema de 5 niveles Model ode capacidad de madures del SEIl).  
 ![[Pasted image 20230305025850.png]]
 
-1. *Initial*:  The goals associated with the process area are satisfied, and for all processes the scope of the work to be performed is explicitly set out and communicated to the team members.
-2. *Managed:* At this level, the goals associated with the process area are met, and organizational policies are in place that define when each process should be used. There must be documented project plans that define the project goals. Resource management and process monitoring procedures must be in place across the institution.
-3. *Defined:* This level focuses on organizational standardization and deployment of processes. Each project has a managed process that is adapted to the project requirements from a defined set of organizational processes. Process assets and process measurements must be collected and used for future process improvements
-4. *Quantitatively managed:* At this level, there is an organizational responsibility to use statistical and other quantitative methods to control subprocesses. That is, collected process and product measurements must be used in process management.
-5. *Optimizing* At this highest level, the organization must use the process and product measurements to drive process improvement. Trends must be analyzed and the processes adapted to changing business needs
-
-[No lo entendi una mierda, hay que buscar]
+![[Pasted image 20230306214714.png]]

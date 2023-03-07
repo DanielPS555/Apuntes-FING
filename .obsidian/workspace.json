@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "67cadae68f297a91",
+        "id": "3d3bc3e54e15e1f4",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3d4a6e66b9ab07",
+            "id": "6f9d5bb2260b77fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "8fd8b5679d1b9500",
+            "id": "7d98dc9bd11ffe7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,45 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d83c774ae8dc22e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Programacion funcional/Clase 1 - ProgFun - Introduccion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cfdec2e04e6684a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Programacion funcional/Clase 2 - Prog fun - definiciones y tipos basicos de Haskell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21018a9a1274654a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85ed1a2fede2a5ab",
@@ -135,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md"
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md"
               }
             }
           }
@@ -197,25 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21018a9a1274654a",
+  "active": "7d98dc9bd11ffe7b",
   "lastOpenFiles": [
+    "Pasted image 20230306214714.png",
+    "Pasted image 20230306193020.png",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+    "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
     "Pasted image 20230305220810.png",
     "Pasted image 20230305213608.png",
     "Pasted image 20230305165941.png",
     "FING apuntes/Programacion funcional/Clase 2 - Prog fun - definiciones y tipos basicos de Haskell.md",
-    "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
     "Pasted image 20230305163142.png",
     "FING apuntes/Programacion funcional/Clase 1 - ProgFun - Introduccion.md",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
     "FING apuntes/Programacion funcional",
     "Pasted image 20230305025850.png",
     "Pasted image 20230305025120.png",
     "Pasted image 20230305015619.png",
     "Pasted image 20230305005047.png",
     "Pasted image 20230305004716.png",
-    "Pasted image 20230304232340.png",
-    "Pasted image 20230304220141.png",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
     "FING apuntes/IIS/Resuemens libro",
     "FING apuntes/IIS",
     "FING apuntes/AGPI/Resumenes del libro/Capitulo 1.md",

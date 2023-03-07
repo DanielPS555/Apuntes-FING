@@ -1,17 +1,18 @@
-
+ 
 ## Introduccion
 - El software no esta limitado por propiedades fisicas, es por ello que puede crecer a puntos extremadamentes complejos, los cuales pueden ser muy dificiles de modificar. 
 - No hay una notacion, metodo o tecnica universal para la ingenieria en software por los diferentes encares que pueden tener. 
-- La ingenieria en software es dicha inadecuada para software moderno. Hay dos rasones por las que algunos afirman esto 
+- Hay algunos que afriman que la ingenieria en software es inedecuada en el software moderno.
+- Por lo general hay dos motivos de fallo del software. 
 		1. *Aumenta la complejidad de los sistemas*: La ingenieria en software ayuda a construir sistemas grandes y escalables. Hoy en dia los tiempos de entraga se han reducido, y es por eso que la ingenieria en software se debe adaptar. 
-		2. *Una mala utilizacion del la ingenieria en software:*: un ejemplo claro es comensar un proyecto y sobre la marcha y usando estas tecnicas.  
+		2. *Una mala utilizacion del la ingenieria en software:*: un ejemplo claro es comensar un proyecto y sobre la marcha y usando estas tecnicas.  Muchas veces cuando no se usa correctamente, el software termina siendo mas caro y menos confiable
 
 
 
 ## Desarrolo profecional del software
-- La principal distincion del software profecional es que esta hecho para er usado para alguien mas que el desarrolador. Y ademas es desarrolado y mantenido por un equipo, no por individuos. 
+- La principal distincion del software profecional es que esta hecho para ser usado por alguien mas que el desarrolador. Y ademas es desarrolado y mantenido por un equipo, no por individuos. 
 - La intencion de la ingenieria en software es dar soporte al desarrolo de software profecional y no al individual. 
-- Tiene tecnicas como: Espesificacion, diseño, evolucion. Ninguna relevante para el desarrolo personal
+- Tiene tecnicas como: Espesificacion, diseño, verificacion, evolucion. Ninguna relevante para el desarrolo personal
 - La ingenieria en software no incluye solo al programa, tambien contempla toda la documentacion, librerias, paginas de soporte, archivos de configuracion, etc. Generalmente es mas que un solo programa
 - En el desarrolo profecional nos preocupamos en el hecho que personal que no desarrolador en programa lo van a usar, y otros ingenieros lo van a modificar. 
 - Los ingenieros en software se preocupan en el desarrolo de software que se pueda vender a un cliente. 
@@ -52,6 +53,7 @@ El abordamiento sistematico se la ingenieria de sofware de los llamada *software
 - `Evolucion del software`: Donde se lo modifica para adecualos a nuevos requerimientos
 
 Estos pasos pueden variar dependiendo de el tipo de sistema. Por ejemplo hay sistemas donde se tiene todos los requerimientos antes de desarrolar el proceso. Mientras que en otro se va dando en paralelo. 
+Para algunos proyectos se hace un analisis de factivilidad precio a la espesificacion de software. 
 
 #### A quien esta relacionado la ingenieria en software
 Tanto a los ingenieros en sistema, como a la 'Computer science'. 
@@ -73,14 +75,14 @@ Estos problemas afectan a la gran mayoria de los tipos de software.
 - La iniciativa SEMAT propone que hay un meta-proceso fundamental que puede ser utilizar para crear diferentes tipos de procesos. 
 
 #### Tipos de aplicaciones 
-1. `Stand-alone applications`: Aplicaciones que corren en una computadora personal y tiene todas las funciones necesarias. 
-2. `Iteractive transaction-base applications`: Aplicaciones que se ejecutan en computadoras remotas accedias por usuarios desde sus maquinas. Ej: pagina web 
-3. `Embedded control systems`: Estos son los softwars que controlan los dispositivos de hardware. 
-4. `Batch processing systems`: Son sistemas que estan pensados en processar grandes volumenes de informacion para crear salidas. EJ: Sistemas de facturacion.
-5. `Entertainment systems`Sistemas personales utilizados para entretener al usuario. Por ejemplo juegos
-6. `System for modeling and simulation`: Son sistemas para modelar procesos o situaciones, con muchos objetos iteractuado y separados
-7. `Data collection and analysis systems`: Son sistemas que se encargan de recolectar informacion de su ambiente y enviarla a otros sistem para su posterior procesamiento. 
-8. `System of system`: Son sistemas que estan compuestos por otros sistemas. Generalmente utilizados en corporaciones de gran tamaño. 
+1. `Stand-alone applications` (aplicaciones independientes): Aplicaciones que corren en una computadora personal y tiene todas las funciones necesarias. 
+2. `Iteractive transaction-base applications` (Aplicaciones iterativas basadas en transaciones): Aplicaciones que se ejecutan en computadoras remotas accedias por usuarios desde sus maquinas. Ej: pagina web 
+3. `Embedded control systems` (Sistemas de control integrado): Estos son los softwars que controlan los dispositivos de hardware. 
+4. `Batch processing systems` (SIstemas de procesamiento por lotes): Son sistemas que estan pensados en processar grandes volumenes de informacion para crear salidas. EJ: Sistemas de facturacion.
+5. `Entertainment systems` (SIstemas de entretenimiento): Sistemas personales utilizados para entretener al usuario. Por ejemplo juegos
+6. `System for modeling and simulation` (Sistemas para modelado y simulacion): Son sistemas para modelar procesos o situaciones, con muchos objetos iteractuado y separados
+7. `Data collection and analysis systems` (Sistemas de recoleccion de datos): Son sistemas que se encargan de recolectar informacion de su ambiente y enviarla a otros sistem para su posterior procesamiento. 
+8. `System of system` (Sistemas de sistemas): Son sistemas que estan compuestos por otros sistemas. Generalmente utilizados en corporaciones de gran tamaño. OSea se comvinan los anteriores. 
 
 Hay fundamentos que aplican a la ingenieria de software de todos estos tipos: 
 - La organizacion de desarrolo del software debe tener un plan de desarrolo con ideas claras y con fechas de terminacion
@@ -111,4 +113,4 @@ Tambien the ACM/IEEE diseñaron un codigo de etica, en su version corta es asi:
 
 Estos principios identifican la responsable y etica relaciones que los individuos y organizaciones participan y sus principales obligaciones dentro de estas relaciones. 
 
-Notar que hay situaciones borde donde estos propios principios se contradicen. Es por eso que en esos casos uno debe decidir segun su comprencion, las personas involucradas y el daño potencial, que decision tomar. 
+Aqui vemos que hay dilemas eticos, notar que hay situaciones borde donde estos propios principios se contradicen. Es por eso que en esos casos uno debe decidir segun su comprencion, las personas involucradas y el daño potencial, que decision tomar. 
