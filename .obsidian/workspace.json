@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "c309fdb8f22b8dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/GPGPU/Clase 2 - GPGPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e3cb21214fe20c2a",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 3'.md",
+                "file": "FING apuntes/GPGPU/Clase 2 - GPGPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 3'.md",
+                "file": "FING apuntes/GPGPU/Clase 2 - GPGPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 3'.md"
+                "file": "FING apuntes/GPGPU/Clase 2 - GPGPU.md"
               }
             }
           }
@@ -180,9 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ee18c8fef7fdb5c",
+  "active": "c309fdb8f22b8dba",
   "lastOpenFiles": [
     "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 3'.md",
+    "FING apuntes/GPGPU/Clase 2 - GPGPU.md",
     "FING apuntes/AGPI/Indice AGPI.md",
     "FING apuntes/AGPI/Resumenes del libro/Capitulo 4 AGPI.md",
     "Pasted image 20230312183556.png",

@@ -81,5 +81,7 @@ Estas metodologias tiene mucho exito en los siguientes casos:
 
 
 ### Test-first development
-
+- Este aspecto es una de las mas importantes diferencias entre incremental development y plan-driven development. 
+- Como en incremental development no hay un system specification, suele pasar que el testing termina siendo muy informal. 
+- En test-first development se tiene primero desarrolar todos los test antes de comenzar con el desarrolo. 
 
