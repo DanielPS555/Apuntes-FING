@@ -33,7 +33,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1 AGPI.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16a2b54f88d43109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +188,6 @@
     "Pasted image 20230312183556.png",
     "Pasted image 20230312183546.png",
     "FING apuntes/AGPI/Resumenes del libro/Capitulo 3 AGPI.md",
-    "FING apuntes/AGPI/Resumenes del libro/Capitulo 1 AGPI.md",
     "Pasted image 20230312003816.png",
     "Pasted image 20230309015018.png",
     "Pasted image 20230309012756.png",
@@ -184,11 +195,8 @@
     "Pasted image 20230309005859.png",
     "Pasted image 20230309002408.png",
     "Pasted image 20230309002351.png",
-    "Pasted image 20230308220419.png",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
     "FING apuntes/IIS/Clase 1.md",
     "FING apuntes/IIO/Optimizacion/Clase 3 - IIO - 6.3.2022.md",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
     "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
     "FING apuntes/Programacion funcional/Clase 2 - Prog fun - definiciones y tipos basicos de Haskell.md",
     "FING apuntes/Programacion funcional/Clase 1 - ProgFun - Introduccion.md",
@@ -210,7 +218,6 @@
     "Excalidraw/Clase 1-3 -- Convexidad 2023-03-02 01.57.25.excalidraw.md",
     "Excalidraw/Clase 1-3 -- Convexidad 2023-03-02 01.20.33.excalidraw.md",
     "Excalidraw",
-    "FING apuntes/IIO/Optimizacion/Clase 27-2   --   Introduccion.md",
     "FING apuntes/AGPI",
     "FING apuntes/IIO/Optimizacion",
     "FING apuntes/IIO"
