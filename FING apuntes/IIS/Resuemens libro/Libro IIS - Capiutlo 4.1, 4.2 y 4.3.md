@@ -1,7 +1,10 @@
 
 #### Dudas:
 - [ ] Como que el nivel de espesificidad de un user requierement puede variar hasta ser una descripcion presisa?
-- [ ] EN la descripcion de `Requierement discovery and understanding` a que se refiere con que "and documentation are also discover during this activity"
+- [ ] Ver bien la diferencia entre Requsitos no funcionaes de producto vs los Organizativos. Tratan de como se debe organizar el proyecto o porque provienene de la organizacion? 
+- [ ] En la descripcion de `Requierement discovery and understanding` a que se refiere con que "and documentation are also discover during this activity"
+- [ ] Ver bien la diferencia entre cliente y usuario (se dice en la clase pero no se entiende)
+- [ ] Solucionar dudas marcadas en este documento
 
 # Introduccion
 
@@ -20,6 +23,15 @@
 - Aunque generalmente La ingenieria en requisitos es presentada con el *la primera etapa del proyecto* en realidad puede haber una previa al proyecto en si para decidir si continuar o no con el desarrolo. Por ejemplo puede incluir un *estudio de factibilidad*. 
 - La salida del proceso de RE se lo conoce como *requierements document*. Puede ser parte de un contrato. Por el contrario en la metodologias agiles se obtiene los requerimientos al mismo tiempo que se desarrola el sistema. 
 
+#### Problema con los requisitos
+- El mayor problema con los requerimientos es el *retrabajo* (rework), ya que alguna (o las dos) partes pierden. Algunos ejemplos cuando pasa esto podrian ser: 
+	- Poco involucramiento de los usuarios
+	- Planes inadecuados (por ejemplo crear planes a partir de requerimientos muy bagos)
+	- Recorretes en los requerimientos de usuarios [DUDA: que es esto]
+	- requisitos ambiguos
+	- Agregar requerimienos que cremos que el usuario va a amar (*good plating*)
+	- No identificar correctamente a los usuarios correctos (por ejemplo obtener requerimientos de usuarios que no son los adecuados)
+
 
 # Requerimientos funcionales y no funcionales
 
@@ -37,16 +49,18 @@
 - En algunos casos, no tiene sentido hablar de un requerimiento funcional, por ejemplo cuando el sistema a crear se basa en un sistema ya creado, y en ese caso lo que varia es la forma de mostrar y organizar la informacion. A estos tipos de requerimientos de los llama *information requirements*. 
 - El no ser presiso con los  requerimientos puede llevar a disputas. Ya que un requerimiento funcional ambiguo puede llevar al desarrolador a implementarlo de una forma que a el le quede mas simple, pero no es lo que queria el cliente. 
 - Los requerimientos deberian idealmente cumplir dos objetivos: 
-	- *Completeness*: Cuando toda la informacion y servicios requeridos por el usuario se relevan. 
+	- *Completeness*: todo lo que quiere el cliente esta definido. 
 	- *Consistency*: Cuando los requerimientos no son entre si contradictorios. 
 - Generalmente solo se pueden conseguir ambos en sistemas muy pequeños. Generalmente se da por dos rasones: 
 	- Es facil equivocarse cuando el sistema es grande 
 	- Cuando hay muchos stakeholders con perspectivas y expectativas diferentes. 
+- Los requsitos funcionales pueden ser escritos por ejemplo de dos formas: Que es lo que deberia hacer el programa (forma clasica) o que es lo que hace mi organizacion. Generalmente si quien escribe los requerimientos es la organizacion cliente, entonces los va a escribir de esta 2º forma, ya que sino puede pasar que los usuarios se temine adaptando al software, mas que el software adaptandose a los usuarios.
+
 
 ## Requerimientos no funcionales
 > These are constraints on the services or functions offered by the system. They include timing constraints, constraints on the development process, and constraints imposed by standards. Non-functional requirements often apply to the system as a whole rather than individual system features or services.
 
-- Estos requerimientos (como su nombre lo dice) no se enfocan que lo que debe hacer o no una funcionalidad/servicio para el usuario. Sino que *espesifican o limitan caraceteristicas que el sistema cumple como un todo*. 
+- Estos requerimientos (como su nombre lo dice) no se enfocan que lo que debe hacer o no una funcionalidad/servicio para el usuario. Sino que *espesifican o limitan caraceteristicas que el sistema cumple como un todo*.  Osea trata de las propiedades y restricciones del sistema
 - Generalmente son mas *criticos* que funcionalidades independientes. 
 - A diferencia de los requerimientos funcionales, el no cumplir con los no funcionales puede llevar a que el sistema sea completamente inusable. 
 - Por lo general los requerimientos funcionales se encuentran contenidos en una componente del sistema, mientras que los no funcionales se encuentran dispersos por todo el sistema, esto por lo general es por dos motivos: 
@@ -82,6 +96,10 @@ Hay 3 grandes categorias:
  
 > En la práctica, en el documento de requerimientos, resulta difícil separar los requerimientos funcionales de los no funcionales. Si los requerimientos no funcionales se expresan por separado de los requerimientos funcionales, las relaciones entre ambos serían difíciles de entender. No obstante, se deben destacar de manera explícita los requerimientos que están claramente relacionados con las propiedades emergentes del sistema, como el rendimiento o la fiabilidad. Esto se logra al ponerlos en una sección separada del documento de requerimientos o al distinguirlos, en alguna forma, de otros requerimientos del sistema.
 
+
+# Otro tipo de requerimientos
+
+No esta en el libro oficial. Mirar OF y el otro libro.
 
 # Procesos en la ingenieria de requerimientos
 
