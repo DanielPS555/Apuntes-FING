@@ -84,4 +84,20 @@ Estas metodologias tiene mucho exito en los siguientes casos:
 - Este aspecto es una de las mas importantes diferencias entre incremental development y plan-driven development. 
 - Como en incremental development no hay un system specification, suele pasar que el testing termina siendo muy informal. 
 - En test-first development se tiene primero desarrolar todos los test antes de comenzar con el desarrolo. 
+- Las claves de testing en XP son:
+	-  *Test-first development*
+	-  *Incremental test development from scenarios*
+	-  *User involment in the test development and validation*
+	- *The use of automated testing framework*
+
+- Una ventaja es que se pueden correr los test mientras el codigo es implementados	
+- Para poder hacer test-first development se requiere que haya una *clara relacion* entre los los requerimientos del sistema y el codigo que implementa dicha relacion, es clara esa relacion en XP ya que las users stories son dividias en una serie de *task*.
+- Estos test se desprenden de las task. Una task puede generar 1 o mas test. 
+- Con *test-first* development se tiene que lograr un claro *entendimiento de espesificacion* de la funcionalidad para poder crear dichos test. Ese proceso *elimina* ambiguedad y omiciones. 
+- Los test son ejecutados en una plataforma *automate test framework*, el cual es una plataforma para ejecutar los test automaticamente. 
+- Hay problemas con los test en lo que respecta a asegurar la *completitd de los test*:
+	- Programadores prefieren programar antes que testear, lo que hace que tomen atajos en este aspecto
+	- Algunos test tiene una gran dificultad de escribir incrementalmente
+ 
+ Es complicado asegurar que los test cubren la totalidad del sistema. 
 
