@@ -1,6 +1,7 @@
 
 #### Dudas:
-- [ ] Como que el nivel de espesificidad de un user requierement puede variar hasta ser una descripcion presisa? 
+- [ ] Como que el nivel de espesificidad de un user requierement puede variar hasta ser una descripcion presisa?
+- [ ] EN la descripcion de `Requierement discovery and understanding` a que se refiere con que "and documentation are also discover during this activity"
 
 # Introduccion
 
@@ -83,3 +84,45 @@ Hay 3 grandes categorias:
 
 
 # Procesos en la ingenieria de requerimientos
+
+- La *requirements engineering* incluye 3 actividades fundamentales: 
+	- `Descubir los requerimientos`
+	- `Espesificacion`: Convertir estos requerimientos ena forma estandar
+	- `Verificar`: Verificar que los requerimientos realmente sea lo que el cliente quiere
+- Estas 3 actividades se realizan de forma *incremental* e *intercalada*
+- La salida de este proceso es un *system requierement document*.
+- Al inicio del proceso, se invierte el mayor efuerso en entender en alto nivel el negocio del sistema, los requerimientos no funcionales y los  user requierements. Mas adelante (en los borden de la espiral, el enfoque esta los systems requierements y requerimientos no funcionales)
+- El *modelo en espiral* se basa en ir evolucionando el desarrolo a medida que el nivel de detalle de los requerimientos aumenta (en las vueltas exteriores de la espiral). El numero de vueltas de la espiral puede variar, y se puede terminar cuando todos o algunos de los requerimientos han sido obtenidos.  
+
+[Poner foto 4.6]
+
+# Obtencion de requerimientos
+- El objetivo de la *requierement elicitation* es entender el trabajo de los stakeholder y como podran utilizar el sistema para apoyar su trabajo. 
+- Durante el proceso se busca obtener: 
+	- Aplication domain ("An application domain is the segment of reality for which a software system is developed")
+	- Work activities
+	- Services and System features que quieren los Stakeholders
+	- Performance requierements
+- Este proceso puede ser dificil por los siguientes motivos: 
+	- Los Stakeholder por lo general no saben lo que lo que quieren de un sistema. O no saben como expresarlo. O piden cosas inrealisas para un sistema en computacion.
+	- Los stakeholder expresan los requerimientos en sus propios teminos, el cual puede implciar tener conocimiento de su trabajo. Si el ingeniero en requerimientos no tiene este conocimiento no va a entender el requerimiento. 
+	- Diferentes stakeholder pueden expresar los requerimientos de forma diferente. Es el ingeniero el que debe encontrar los puntos en comun y contradicciones entre los mismos. 
+	- Puede haber factores politicos los cuales hagan que algunos stakeholder pidan requerimientos para su propio beneficio en la organizacion.
+	- Las condiciones de la organizacion puede cambiar, y por ende durante el proceso de obtencion de requerimientos, puede surgir nuevos requerimientos de por ejemplo nuevos stakeholder. 
+- Un proceso de obtencion de requerimientos y analisis incremental puede ser el siguiente:
+	[Figura 4.7]
+- Las etapas son: 
+	- `Requierement discovery and understanding`: Se interactua con los stakeholder para obtener los requerimientos. [Falta una parte]
+	- `Requierement classification and organization`: Se agrupan los requerimientos relacionados. 
+	- `Requierement prioritization and negotiation:` Se basa en priorizar los requerimientos y resolver los conflictos (debidio a que los mismos vienen de varios stakeholders ) via negociacion. 
+	- `Requierement documentation:` Los requerimientos son documentados. Se puede ir adelantado una preview del software requierement document. O se los puede documentar informalmente. 
+
+- Este modelo general es adaptado segun la organizacion, tipo de sistema, experiencia de del personal, etc
+- Una forma de agrupar es tomar todos los stakeholder de un grupo y considerarlos una *viewport*. Todos los requerimientos de ese grupo son de la viewport. Se puede aplicar lo mismo en los requerimientos de dominio y limitantes de otro sistema. [DUDA]
+- Si un stakeholder no se siente que su punto de vista no fue considerado, entonces puede desestimar el proceso de obtencion de requerimientos. Osea *es importante mantener reuniones regulares con los stakeholders*
+- Cuando se hace la Requirement documentation es importante que sea en un lenguaje simple con representacion con diagramas, asi los stakeholder puede ver el progreso. y hacer feedback. 
+
+
+
+
+
