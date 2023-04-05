@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e63d4265e8680993",
+        "id": "c8af15dc40ec4691",
         "type": "tabs",
         "children": [
           {
-            "id": "12b88447138b7d01",
+            "id": "4c814d9fcba03efb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capiutlo 4.1, 4.2 y 4.3.md",
+                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 5 AGPI.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capiutlo 4.1, 4.2 y 4.3.md",
+                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 5 AGPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capiutlo 4.1, 4.2 y 4.3.md",
+                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 5 AGPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Libro IIS - Capiutlo 4.1, 4.2 y 4.3.md"
+                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 5 AGPI.md"
               }
             }
           }
@@ -147,26 +147,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12b88447138b7d01",
+  "active": "4c814d9fcba03efb",
   "lastOpenFiles": [
+    "FING apuntes/Programacion funcional/Clase 6 - Operacion sobre listas.md",
+    "FING apuntes/Programacion funcional/Clase 5 - ProgFun - Definiciones de funciones.md",
+    "FING apuntes/Programacion funcional/Clase 4 - ProgFun - Polomorfismo, sobrecarga y alto orden.md",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capiutlo 4.1, 4.2 y 4.3.md",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
+    "FING apuntes/AGPI/Resumenes del libro/Capitulo 5 AGPI.md",
+    "FING apuntes/IIS/Resuemens libro/Anexo Casos de uso.md",
+    "FING apuntes/IIS/Resuemens libro/imgs/IISCap4_1.png",
+    "FING apuntes/IIS/Resuemens libro/imgs/1.png",
+    "FING apuntes/IIS/Resuemens libro/imgs/IISCap4Img7.png",
+    "img.md",
+    "FING apuntes/IIS/Resuemens libro/imgs/iisCap4Img6.png",
+    "FING apuntes/IIS/Resuemens libro/imgs/Iiscap4Img5.png",
     "FING apuntes/IIS/Resuemens libro/imgs/iisIm4Cap4.png",
     "Pasted image 20230320013456.png",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capiutlo 4.1, 4.2 y 4.3.md",
     "FING apuntes/IIS/Resuemens libro/imgs/IisImg3Cap3.png",
     "FING apuntes/IIS/Resuemens libro/imgs/IssImg2Cap3.png",
     "FING apuntes/IIS/Resuemens libro/imgs/Issimg1Cap3.png",
     "FING apuntes/IIS/Resuemens libro/imgs",
-    "Pasted image 20230320001216.png",
-    "Pasted image 20230320001212.png",
-    "Pasted image 20230320001203.png",
-    "Pasted image 20230320001148.png",
-    "Pasted image 20230320001137.png",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
     "FING apuntes/Programacion funcional/Indice ProgFun.md",
     "FING apuntes/Programacion funcional/Clase 1 - ProgFun - Introduccion.md",
-    "FING apuntes/Programacion funcional/Clase 4 - ProgFun - Polomorfismo, sobrecarga y alto orden.md",
-    "FING apuntes/Programacion funcional/Clase 5 - ProgFun - Definiciones de funciones.md",
-    "Pasted image 20230319031758.png",
     "FING apuntes/Programacion funcional/Clase 3 - ProfFun - Tipos estructurados.md",
     "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 3'.md",
     "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 3.md",
@@ -186,10 +189,7 @@
     "Udemy/Clean code/Indice clean code.md",
     "Udemy/Cursos Udemy.md",
     "Udemy/Clean code/Nombres.md",
-    "Udemy/Spring/Indice spring.md",
     "FING apuntes/AGPI/Resumenes del libro",
-    "Excalidraw/Drawing 2023-03-02 01.11.50.excalidraw.md",
-    "FING apuntes/IIO/Optimizacion/Clase 1-3 -- Convexidad.md",
     "Excalidraw",
     "FING apuntes/AGPI",
     "FING apuntes/IIO/Optimizacion",
