@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31a8320860b76d4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/IIS/Resuemens libro/Verificacion/Libro IIS - Verificacion - Cap 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1 AGPI.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Verificacion/Libro IIS - Verificacion - Cap 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1 AGPI.md",
+                "file": "FING apuntes/IIS/Resuemens libro/Verificacion/Libro IIS - Verificacion - Cap 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/AGPI/Resumenes del libro/Capitulo 1 AGPI.md"
+                "file": "FING apuntes/IIS/Resuemens libro/Verificacion/Libro IIS - Verificacion - Cap 3.md"
               }
             }
           }
@@ -147,11 +160,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abfb7edc5bcdc7a4",
+  "active": "31a8320860b76d4c",
   "lastOpenFiles": [
+    "FING apuntes/AGPI/Resumenes del libro/Capitulo 1 AGPI.md",
+    "FING apuntes/IIS/Resuemens libro/Verificacion/Libro IIS - Verificacion - Cap 3.md",
+    "FING apuntes/IIS/Resuemens libro/Verificacion",
+    "FING apuntes/GPGPU/Clase 6 - GPGPU.md",
+    "FING apuntes/IIS/Resuemens libro/imgs/iisCap4Img6.png",
+    "img.md",
+    "FING apuntes/Programacion funcional/Clase 6 - Operacion sobre listas.md",
+    "FING apuntes/IIS/Resuemens libro/imgs/Iiscap4Img5.png",
+    "FING apuntes/IIS/Resuemens libro/imgs/IISCap4_1.png",
+    "FING apuntes/IIS/Resuemens libro/imgs/IISCap4Img7.png",
+    "FING apuntes/AGPI/Resumenes del libro/Capitulo 6 AGPI.md",
+    "FING apuntes/IIS/Resuemens libro/Anexo Casos de uso.md",
     "FING apuntes/AGPI/Resumenes del libro/Capitulo 5 AGPI.md",
     "FING apuntes/IIS/Resuemens libro/Libro IIS - Capiutlo 4.1, 4.2 y 4.3.md",
-    "FING apuntes/GPGPU/Clase 6 - GPGPU.md",
     "FING apuntes/AGPI/Indice AGPI.md",
     "FING apuntes/IIS/Resuemens libro/imgs/iisIm4Cap4.png",
     "Pasted image 20230320013456.png",
@@ -159,6 +183,8 @@
     "FING apuntes/IIS/Resuemens libro/imgs/IssImg2Cap3.png",
     "FING apuntes/IIS/Resuemens libro/imgs/Issimg1Cap3.png",
     "FING apuntes/IIS/Resuemens libro/imgs",
+    "Pasted image 20230320001216.png",
+    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
     "FING apuntes/Programacion funcional/Indice ProgFun.md",
     "FING apuntes/Programacion funcional/Clase 1 - ProgFun - Introduccion.md",
     "FING apuntes/Programacion funcional/Clase 4 - ProgFun - Polomorfismo, sobrecarga y alto orden.md",
@@ -177,12 +203,7 @@
     "FING apuntes/IIS",
     "FING apuntes/IIO/Indice IIO.md",
     "FING apuntes/INGLES/Indice ingles.md",
-    "Scanntech/Precios/Indice precios.md",
-    "Udemy/Clean code/Indice clean code.md",
-    "Udemy/Cursos Udemy.md",
-    "Udemy/Clean code/Nombres.md",
     "FING apuntes/AGPI/Resumenes del libro",
-    "Excalidraw/Drawing 2023-03-02 01.11.50.excalidraw.md",
     "Excalidraw",
     "FING apuntes/AGPI",
     "FING apuntes/IIO/Optimizacion",
