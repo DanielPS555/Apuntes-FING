@@ -59,11 +59,11 @@ En contra
 - *Def Enfoque ecologista de la gerencia:* Reconocomiento del vinculo directo entre las deciciones y actividades de la organizacion y sus repercusiones en la naturaleza.
 - Son una gran lista de problemas ambientales, algunos de ellos son: Calentamiengo global, falta de recursos, contaminacion del agua y los suelos, etc. 
 - Se anticipa problemas ambientales ante el crecimiento demografico y a medida que los paises de desarrolen, participando de mercados y enriquesiendose. 
-- Debido al mayor reconocimiento, los gerentes van a tener que formarse en estos temas para entende rla naturalesa de esos problemas. 
+- Debido al mayor reconocimiento, los gerentes van a tener que formarse en estos temas para entender la naturalesa de esos problemas. 
 
 #### Como se vuelven ecologias las empresas 
 Hay una escala llamada *matriz azul*, o Matrices ecologicos que mide el compromizo de una empresa con el ambiente: 
-- **Postura legal (azul claro)**: no hace nad amas que lo que impone la ley. Buen ejemplo de obligacion social. 
+- **Postura legal (azul claro)**: no hace nada mas que lo que impone la ley. Buen ejemplo de obligacion social. 
 - **Postura mercado**: Responde a las preferencias ambientales de sus clientes 
 - **Postura de los accionistas o interesados**: La organizacion se efuerza por cumplir con las demanadas de ls diversos interesados, como empleados, proveedores y la comunidad.
 - **Postura activista**: Busca los medios para respetar y defender la Tierra y los recursos naturales. Buen ejemplo de responsabilidad social. 
@@ -224,7 +224,7 @@ Con el fin de condusir el negocio de forma mas etica y responsable socialmente s
 #### Proteccion a los empleados que denuncian cuestiones morales 
 - Es importante que los gerentes se aseguren que los empleados que hacen denuncias morales dentro y fuera de la organizacion no corran peligos profecionales y personales 
 
-#### Manejodel impacto social 
+#### Manejo del impacto social 
 - "Los gerentes deben abordad sus responsabilidades desde el punto de vista de sus repercusiones sociales".
 - A esta corriente de pensamiento de la llama *Manejo del impacto social*.
 - *Def (Mano del impacto social):* "Campo de investigacion en el cruce del ejercicio empresarial y las precupaciones de la sociedad que reflejan y respeta la entreverada interdependencia de esas dos esferas". 

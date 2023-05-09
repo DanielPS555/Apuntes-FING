@@ -1,7 +1,7 @@
 
 ## Dudas 
 - [ ] Como la intusion participa en el proceso de toma de decisiones? Como se complementa con la racional? 
-- [ ] Si un problea es nuevo, pero tengo informacion, es estructurado o no estructurado
+- [x] Si un problea es nuevo, pero tengo informacion, es estructurado o no estructurado
 - [ ] Diferenca entre prejucio de percepcion selectiva y error de contextualizacion
 
 ## Proceso de toma de decisiones
@@ -139,7 +139,7 @@
 
 	- `Efecto ancla:` Cuando los que deciden se quedan fijados en la informacio inicial como punto de partida y no se adaptan a la informacion siguiente. 
 	
-	- `Prejucio de percecion selectiva:` Se da cuando se organiza selectivamente e interpreta los acontecimientos de acuerdo son sus imprecios tergiversadas. 
+	- `Prejucio de percecion selectiva:` Se da cuando se organiza selectivamente e interpreta los acontecimientos de acuerdo son sus impresisiones tergiversadas. 
 	 
 	- `Prejucio de confirmacion:` Se da cuando los gerentes buscan informacion que reafirme sus elecciones previas e ignoran la que contradicen sus jucios anteriores. 
 	
@@ -156,3 +156,7 @@
 	- `Prejucio efoista`:  Toman las decisiones y se apresuran para asignarse por sus existos y culpan a dactores externos por el fracaso. 
 
 	- `Error de la percepcion restrospectiva`: Cuando el gerente cree falsamente que habia pronosticado corectamente, luego de conocer el resultado. 
+
+## Toma de decisiones en el mundo de hoy 
+
+Falta
