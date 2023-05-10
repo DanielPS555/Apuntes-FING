@@ -63,6 +63,7 @@ La única diferencia es que la licencia la dan las organizaciones de manufactura
 
 - *Alianzas estrategicas:* Método de globalización que consiste en establecer sociedades entre la organización y una compañía foránea en las que las partes comparten recursos y conocimientos para desarrollar productos nuevos o construir instalaciones fabriles.
 - *Joint venture:* Método de globalización que es una forma de alianza estratégica en la que los socios acceden a formar una organización independiente para algún fin particular especial.
+
 - *Subsidia foreana:* Método de globalización que consiste en invertir directamente, en otro país, en una fábrica u oficina separada e independiente. Esta ultima se maneja o como una CMN, CTN o oranizacion sin fronteras. 
 
 

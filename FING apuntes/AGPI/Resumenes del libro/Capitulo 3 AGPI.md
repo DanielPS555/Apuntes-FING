@@ -165,13 +165,13 @@ Vamos a ver 4 temas actuales de la cultura que deben consaiderar los gerentes:
 
 ### Evaluacion de la incertidumbre ambiental 
 - *Def Incetidumbre ambiental*:  Medida de los cambios y la compejidad del entorno de una organizacion. 
-- Como su def lo dice, esta incertidumbre tiene dos componentes, el *grado del cambio* y a la *complejidad ambiental*.
+- Como su def lo dice, esta incertidumbre tiene dos componentes, el grado del cambio y a la *complejidad ambiental*.
 - Para la evaluacion del grado de cambio, hay dos posibilidades, estable y dinamico. Y de eso depende de si los componentes del ambiente de una organizacion cambian o no con frecuencia. 
 - Importante: Cuando hablamos de grado de cambio, decimos que el cambio es impredecible. Si el cambio se anticipa con exactitud, los gerentes no enfrentan incertidumbre alguna. O sea, si el cambio se sabe de ante mano, no afecta al grado de cambio. 
 - *Def Complejidad ambiental:* Número de componentes del entorno de la organización y el monto de los conocimientos que ésta tiene de aquéllos.
 - Como la def dice, la complejidad del entorno tiene dos variantes, el numero de componentes y el conocimiento que se requiere de estos. 
 - Mientras mas chico el entorno (ej no hay competencia) es mas simple porque hay menos componentes. 
-- El monto de conocimiento refiere a cuanto la organizacion requiere conocer acerca de un componente en particular. Ej, si un banco terseria su software, requiere saber mucho de la empresa quien lo desarrola por seguirdad propia. 
+- El monto de conocimiento refiere a cuanto la organizacion requiere conocer hacerca de un componente en particular. Ej, si un banco terseria su software, requiere saber mucho de la empresa quien lo desarrola por seguirdad propia. 
 - La influencia de los gerentes en los resultados de la organizacion es mayor cuanto el entorno es estable (grado cambio) y simple (grado complejidad). 
 - Es importante saber la incertidumbre ambiental de una organziacion, ya que es una gran amenaza para la organizacion. 
 
