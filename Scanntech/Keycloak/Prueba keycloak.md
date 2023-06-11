@@ -1,0 +1,7 @@
+Usuario *PRUEBAKEYCLOAK1*
+Pass= abcd1234
+Email: PRUEBAKEYCLOAK1@scanntech.com 
+
+Usuario PRUEBAKEYCLOAK2
+Pass = PRUEBAKEYCLOAK2123
+Email = PRUEBAKEYCLOAK2@scanntech.com
