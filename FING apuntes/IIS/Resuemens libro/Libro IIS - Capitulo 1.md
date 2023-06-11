@@ -20,7 +20,7 @@
 	1. ``Productos Genericos``: Son productos creados y son abiertos para que cualquiera pueda comprarlos. No son para un cliente en particular. Pueden ser para un tipo de cliente en particular, por ejemplo las biblotecas. 
 	2. `Customized software`: Software que es diseñado para un cliente en particular. 
 
-	La maxima distinicion entre ambos tipos de software es quien controla la espesificacion del software. Cuando es generico la compañia que lo desarrola es quien decide las espesificaciones, mientras que cuando es personalizado, es la compañia que paga quien decide. 
+	**La maxima distinicion entre ambos tipos de software es quien controla la espesificacion del software.** Cuando es generico la compañia que lo desarrola es quien decide las espesificaciones, mientras que cuando es personalizado, es la compañia que paga quien decide. 
 	Hoy en dia muchos software son diseñados genericos, y luego adaptados a casos particulares, por ejemplo SAP. Estos programas se los llaman Enterprise *Resource Planning (ERP) systems*.
 - La *calidad del software* no depende unicamente de la funcionalidad. Ya que al ser cambiado por otras personas cosas como la documentacion o claridad del codigo son importantes. Aspectos como el comportamiento del programa tambien importan, no solo lo que el programa hace. Estas cosas se ven reflejadas en la calidad del software o en *atributos no funcionales*
 - Algunos de estos atributos son: 
