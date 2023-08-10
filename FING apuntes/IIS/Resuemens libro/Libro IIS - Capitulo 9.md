@@ -34,7 +34,7 @@
 - Cuando la *transicion* de desarrolo a evolucion *esta bien marcada*, se habla de **mantenimiento de software**
 - El modelo anterior *es aplicable* cuando la compañia que hace el desarrolo y la encargada de la evolucion *es la misma*.
 - En el anterior caso, la *metodologia y procesos* de desarrolo de software y la de evolucion es la misma.
-- No siempre la empresa que hace el desarrolo es la misma que hace la evolucion. Hay veces que la empresa que cliente se hace cargo de la evolucion, hay otros casos donde la empresa cliente contrata otra empres que se haga cargo del desarrolo. Cosas locas...
+- No siempre la empresa que hace el desarrolo es la misma que hace la evolucion. Hay veces que la empresa del cliente se hace cargo de la evolucion, hay otros casos donde la empresa cliente contrata otra empres que se haga cargo del desarrolo. Cosas locas...
 - Cuando lo anterior pasa, el *pasaje de desarrolo y evolucion no es continuo*. Cuando se da esta discontinuidad, el *proceso de cambio del software post liberacion* se lo conoce como **software maintenance**. 
 - *Software maintenance* incluye otras actividades mas haya de las de desarrolo de software, como por ejemplo *entendimiento del programa*. 
 - Rajkuch y Bennett *propone una vision alternativa* del ciclo de vida del software en los sistemas empresariales. Como se muestra en la siguiente foto: 

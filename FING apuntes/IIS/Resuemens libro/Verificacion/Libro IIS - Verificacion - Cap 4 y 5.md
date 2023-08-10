@@ -45,11 +45,41 @@ Hay multiples tipos, dependiendo en que se basan y que prueban
 
 ##### Proceso general de revisiones
 - `Planificacion`
+	- EL review lider decide cuales artefactos (documentos, codigo, etc) se van a revisar, no tiene que ser todos ni todo el documento.
+	- Se incluye el esfuerzo estimado
+	- Se selecciona al personal técnicamente capacitado y se forma el equipo. Se asignan roles
+	- En el caso formal se terminan ``criterios de entrada`` y ``criterios de salida``.
+	- Es mas exitoso cuando se eligen ``viewpoint`` y cada persona se ocupa de solo uno de ellos. 
+	- Los ``viewpoint`` debe ser determinados en esta etapa
 - `Kick-off`
-- `Preparacion individual`
-- `Reunion de revision`
+	- Es una reunion con el fin de proveeder la informacion necesaria para la review a los participantes de la misma
+	- O sea el objetivo es compartir informacion y el significado y objetivo de la review 
+	- Se debe proveeder acceso a los otros documentos que apoyen o determinen si el objeto devisado es correcto o incorreo. A estos documentos se los llama `base document`.
+	- Tambien se puede determinar las review criteria (EJ checklist)
+	- Si hay una criterio de entrada, y este no es satifhecho, se cancela la reunion.
+- `Preparacion individual` 
+	- Preparase para la reunion
+	- Estudiar las base document
+	- Comparar el review object contra las base document y tu experiencia
+- `Reunion de revision` 
+	- Se lleva acabo la reunión
+	- El moderador dirige la reunión y evita conflictos
+	- El resultado de la reunión es una recomendación de aceptación sin cambios, aceptación con cambios, no aceptación. No se le dan ordenes al equipo de desarrolo. 
+	- Tiempo limitado a dos 2h
+	- El modelador puede canclear
+	- El modelador no puede ser un reviewer 
+	- El modelador puede cancelar la reunión
+	- Solo se debe dicturir lo que se acordó en las guidelines
+	- Los defectos encontrados deben están ponderados según su importancia
+	- La salida de la reunion es un ``review summary report`` que contiene toda la información relevante. 
 - `Re-trabajo`
+	- Se evalua si las recomendaciones son validas
+	- En caso que si, se aplica el re trabajo, corrigiendo los defectos
 - `Seguimiento`
+	- Luego del re-trabajo se evalua si se requiere repetir el proceso, o si hacer la review de determinadas partes que han sufrido cambios
+	- Se evalúa el proceso de review para mantener al dia las guindelines y las checklist
+	- se busca si hay un patrón de los defectos que evidencia una falta de conocimiento técnico del equipo de desarrollo en alguna area tecnica
+	- Se pueden usar los criteirios de salida en los procesos formales para dar por cerrado la review
 
 ##### Roles y responsabilidades de las reviciones
 - `Lider`: *Selecciona* los *artefactos* a ser revisados, asigna los *recursos* necesarios y selecciona el *equipo* de revision. Generalmente *no participa* de las reuniones de revision
@@ -77,8 +107,18 @@ Una persona puede realizar mas de un rol
 		- Los inspectores (o revisores) utiliza una *checklist* para el proceso, eso permite que el los mas junior tambien pueda realizar estas inspecciones
 		- Algunas cosas que se revisan pueden ser: Uso de variables no inicializadas, asignaciones de tipo no compatible
 	- **Revisiones tecnicas:**
-		- 
+		- Se enfoca ver si el documento se adecua a las especificaciones y estándares
+		- La unica entrada de información es la especificación y estandres oficiales. 
+		- Se debe votar la review de forma unánime, se pueden añadir notas de discrepancia al output. 
+		- Tambien se pueden detectar errores y defectos durante este tipo de review
+
 	- **Revisiones informales:**
+		- Es una versión ligera de la review
+		- La Planning solo incluche elegir a las personas
+		- No se hacen reuniones para intercambiar hallazgos 
+		- Se le pide a las personas que envíen una lista con los defectos encontrados, no tiene haber documento formal. 
+		- Es muy aceptada, tiene esfuerzo y costos mínimos
+		- Pair programming, buddy testing, code swapping son tipos de informal reviews 
 
 
 #### Analisis estatico

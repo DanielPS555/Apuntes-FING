@@ -11,7 +11,7 @@
 - La *complejidad* depende de: 
 	- *La tecnologia usada*
 	- *Restriciones funcionales* (Eso puede incluir por ejemplo cuando debe estar liberado una nueva version)
-	- *Requisitos de disponibilidad*. Haca hay aspectos como que versiones se encuentran liberadas simultaniamente para usuarios distintos, como tambien el grado de disponibilidad del software (ej 24 horas todos los dias el software debe estar disponible)
+	- *Requisitos de disponibilidad*. Aca hay aspectos como que versiones se encuentran liberadas simultaniamente para usuarios distintos, como tambien el grado de disponibilidad del software (ej 24 horas todos los dias el software debe estar disponible)
 - La *facilidad* de la instalacion influye en la liberacion inicial y las siguientes durante el mantenimiento. 
 - Algunas *actividades* que incluye son: 
 	- Migrar o carga de datos iniciales
@@ -37,7 +37,7 @@
 			- Localizacion
 		- Un *problema* es que se *convive con varios sistemas a la vez*
 		- Un *beneficio* es que al ser menor la cantidad de usuarios, es *mas facil el ajuste de los prodecimientos*
-		- Un lugar donde esta bueno usar esta metodologia es cuando en la version anterior hay un problema grabe, la cual se debe actualizar en todo el sistema, por lo que no puede ser paulatina. 
+		- Un lugar donde no esta bueno usar esta metodologia es cuando en la version anterior hay un problema grabe, la cual se debe actualizar en todo el sistema, por lo que no puede ser paulatina. 
 	- *Procesamientoen paralelo*: Tenemos un sistema en *produccion*, y otro para *prueba/control*
 		- Muy util para *Entrenamiento* y para *validacion de la operacion*
 	- *Estrategias hibridas*: Una comvinacion de las anteriores

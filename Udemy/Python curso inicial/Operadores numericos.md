@@ -1,0 +1,15 @@
+- **División real**
+	- Operador `/`
+	- Genera un `float` siempre
+	- Ej 5 / 2 = 2.5
+- **Divicion entera**
+	- Operador `//`
+	- Genera un `int`
+	- EJ 5 // 2 = 2
+- **Modulo**
+	- Operador `%`
+	- Genera un ``int``
+	- Ej: 5 % 2 = 1
+- **Potencia**
+	- Operador: `**`
+	- 
