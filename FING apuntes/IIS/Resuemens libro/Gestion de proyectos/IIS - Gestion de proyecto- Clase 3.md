@@ -96,4 +96,29 @@ Hay dos tipos de *analisis*
 		- Tiene problemas con el *sincrome del 90%*
 
 #### Enfoque del valor ganado
-- Se define un valor monetario a cada tarea
+- Modelo en el cual todas actividades son unificadasa llevando a $ pos los costos planificados
+- Se puede si se obtuno los costos y avance previsto
+- Se puede obtener un % del avance, dia de atrasos, desciacion de costos, etc. 
+
+##### Algunas definiciones
+- **Valor planificado (PV)**: Lo que tendira que tener hecho hoy. Segun el valor que estime
+- **Valor ganado (EV)**: Lo que tengo hasta ahora, segun el valor que estime en cada tarea
+- **Costo actual (AC)**: Lo que llevo gastado para el trabajo hecho hasta ahora
+- **Prespuesto planificado (BAC)**: ¿Cuanto prepuesto tengo pensando gastar?
+- **Final planificado (FP)**: Fecha planificada de finalizacion del proyecto
+- **Varianza de costos (CV)**: ¿Estamos por encima o debajo del prespuesto?
+	- Formula: CV = EV - AC
+- **Variacion de cronograma (SV)**: ¿Estamos adelantados o atrasados?
+	- Formula SV = EV - PV
+- **Costo performance index (CPI)** ¿Cuan eficiente estamos usando los recursos?
+	- Formula CPI = EV / AV
+	- Si es menor que uno, indica *sobrecosto*
+- **Schedule performance index (SPI)**:¿Cuan eficiente estamos usando el tiempo?
+	- Formula SPI = EV / PV
+	- Menor que uno es atraso
+- **Estimado a la Conclusión basada en costos (EAC)**
+	- Formula EAC =  BAC / CPI
+- **Estimado a la conslucion Basado en tiempo (EAC t)**
+	- Formula EAC(t) = FP / SPI
+	- ![[Pasted image 20230610220620.png]]
+	- 
