@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type",
+                "query": "Valor ganado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 388.5
   },
   "right": {
     "id": "85ed1a2fede2a5ab",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Liberacion del sistema.md",
+                "file": "FING apuntes/AA/2-conceptual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Liberacion del sistema.md",
+                "file": "FING apuntes/AA/2-conceptual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/IIS/Resuemens libro/Liberacion del sistema.md"
+                "file": "FING apuntes/AA/2-conceptual.pdf"
               }
             }
           }

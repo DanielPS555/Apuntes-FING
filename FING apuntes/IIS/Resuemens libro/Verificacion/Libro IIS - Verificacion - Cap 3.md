@@ -1,6 +1,6 @@
 
 ## Dudas 
-- [ ] En las ventajas del equipo especializado se menciona que conocen mejor el modelo de negocio, ¿mejor que el equipo de desarroladores?
+- [x] En las ventajas del equipo especializado se menciona que conocen mejor el modelo de negocio, ¿mejor que el equipo de desarroladores?
 
 - En este cap se explica el rol del testing dentro del ciclo de vida de desarollo. Sea una el modelo en V como guia. 
 - Cada ciclo de vida muestra una perspectivadel testing
@@ -125,7 +125,7 @@
 	- Verificar la documentacion y omision de requisitos
 - No es imposible probar si no tenemos la documentacion o si la misma no es exacta, uno puede realizar *testing exploratorio* o aplicar de sus conocimientos en el dominio de la aplicacion. Pero eso no es siempre viable en todos los sistemas. 
 
-## Prueba de aceptacion
+## Prueba de aceptación
 - Verifica que el sistema cumple con los requisitos del cliente de acuerdo a como los mismos fueron *espesificados en el contrato* y/o el sistema cumple con las *necesidades* y *expectativas* del cliente
 - Esta prueba se puede realizarse en niveles inferiores o distribuido en otros niveles. 
 - Se requiere un conocimiento de los requisitos y una vision global
@@ -137,16 +137,33 @@
 
 
 #### Tipos de prueba de aceptacion: 
-**Pruebas de aceptacion contractuales**
+- The *focus is on the customer's* and user's perspective.
+- Acceptance test may also ***be executed as a part of lower test levels*** or be distributed over ***several levels***. (es posible hacer el acceptance test de un componente durante el unit test)
+- The *amount* of acceptance testing depends on the *product risk*.
+- The test basis can be any document describing the system form the user's POV.
 
-**Pruebas de aceptacion de usuario**
 
-**Pruebas de aceptacion Operacionales**
-
-**Pruebas de campo**
-- Aqui tenemos las *alpha* y *beta* .
-- Aqui tambien tenemos las *dogfood test*. Aqui los clientes que pruebas son el mismo equipo de desarrolo
-
+Existen formas de acceptance testing:
+1. ***Contract acceptance testing***
+    - Utilizado principalmente para software para clientes específicos.
+    - El cliente decide si el sistema esta libre de defectos mayores y cuando se considera aceptable.
+    - *Los criterios para la prueba de aceptación son los criterios de aceptación determinados en el contrato*, deben ser establecidos sin ambigüedades. (incluyendo regulaciones legales) (Testeas para comprobar que el software acate lo estipulado en el contrato)
+    - The acceptance environment should be as similar as possible to the later operational environment.
+2. ***User acceptance testing***
+    - Recommended if the **customer and the user are different**.
+    - Its necessary to organiza a user acceptance test for each user group.
+    - Para prevenir errores graves, es util utilizar prototipos tempranos.
+    - Los casos de prueba son seleccionados según escenarios típicos de uso o procesos de negocio.
+3. ***Operational acceptance testing***
+    - Son para asegurar que el sistema es aceptado por administradores del sistema.
+    - Ej. Manejo de backups, user management, comprobaciones de seguridad, etc.
+4. **(Field testing (alpha and beta testing))**
+    - Su objetivo principal es identificar elementos del ambiente de los usuarios que influyen en el software y no son completamente conocidos o especificados y eliminarlos si es necesario.
+    - Testing done by representative customers: el productor provee una prerelease estable a clientes preseleccionados representativos del mercado o ambientes similares a lo que se espera de la realidad.
+    - Permite ejecutar escenarios de prueba dados por el productor o usarlo en condiciones realistas.
+    - *Alpha tests* son realizados dentro de la ubicación física / ambiente de la empresa.
+    - *Beta testing* son realizados en el ambiente del cliente.
+    - *Dogfood*: Field testing where the product is distributed to be used by internal users in the company
 
 ## Nuevas versiones del sistema
 - Luego que el software llegar por primera ves a prod, el mismo se puede ir actualizando y extendiendo con el paso del tiempo

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9fa2eca906154140","x":-20,"y":-160,"width":250,"height":60,"color":"1","type":"text","text":"Secado (24 horas)"},
+		{"type":"text","text":"Ensamblado (20 min)","id":"b2344b02b83a04f2","x":320,"y":-160,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Pintura (20 min)","id":"39f5070908d0b9de","x":-360,"y":-160,"width":250,"height":60,"color":"3"},
+		{"id":"92eb181e94a0b4d7","x":-720,"y":-160,"width":250,"height":60,"color":"4","type":"text","text":"Carpinteria (40 min)"},
+		{"type":"text","text":"Luces (20 min)","id":"a497691b67e62ab8","x":640,"y":-20,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"4a1155c645a535af","fromNode":"92eb181e94a0b4d7","fromSide":"right","toNode":"39f5070908d0b9de","toSide":"left"},
+		{"id":"278fbc37712fedf8","fromNode":"39f5070908d0b9de","fromSide":"right","toNode":"9fa2eca906154140","toSide":"left"},
+		{"id":"cf2e3f4164650534","fromNode":"9fa2eca906154140","fromSide":"right","toNode":"b2344b02b83a04f2","toSide":"left"},
+		{"id":"25ca164472fbe5fb","fromNode":"b2344b02b83a04f2","fromSide":"right","toNode":"a497691b67e62ab8","toSide":"left"}
+	]
+}
