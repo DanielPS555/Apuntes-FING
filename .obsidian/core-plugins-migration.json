@@ -27,5 +27,9 @@
   "publish": false,
   "sync": false,
   "bookmarks": true,
+<<<<<<< Updated upstream
   "properties": true
+=======
+  "properties": false
+>>>>>>> Stashed changes
 }
