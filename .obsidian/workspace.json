@@ -6,13 +6,37 @@
       {
         "id": "8ff6caf5bf651b29",
         "type": "tabs",
+        "dimension": 46.76328502415459,
         "children": [
           {
             "id": "c004f5acb5ad0ffb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/Taller SCF/Investigation Weed detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d06f2bdf52b80dd0",
+        "type": "tabs",
+        "dimension": 53.23671497584541,
+        "children": [
+          {
+            "id": "6f887e8585a5b9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 318.5
   },
   "right": {
     "id": "85ed1a2fede2a5ab",
@@ -89,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FING apuntes/Taller SCF/Investigation Weed detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FING apuntes/Taller SCF/Investigation Weed detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FING apuntes/Taller SCF/Investigation Weed detection.md"
+              }
             }
           },
           {
@@ -156,11 +184,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
   "active": "c004f5acb5ad0ffb",
   "lastOpenFiles": [
+    "Tecnologias/Cuda/Cooperative Groups.md",
+    "FING apuntes/Taller SCF/Investigation Weed detection.md",
+    "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
+    "FING apuntes/FuO/Repaso/FuO - Repaso - Diferenciabilidad.md",
+    "Tecnologias/Cuda",
+    "FING apuntes/FuO/FuO - Clase 1.md",
+    "FING apuntes/FuO/Fuo - Clase 2.md",
+    "FING apuntes/FuO/Repaso",
+    "FING apuntes/Taller SCF/Investigation Computer vision.md",
+    "FING apuntes/FuO",
+    "FING apuntes/FuO.md",
     "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos/Astillas y Antialiasing.md",
     "Pasted image 20240314005702.png",
     "Pasted image 20240314005332.png",
@@ -189,22 +229,12 @@
     "Pasted image 20240313234346.png",
     "Pasted image 20240313232514.png",
     "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos/Discretización de líneas.md",
-    "FING apuntes/Computacion grafica/Hardware grafico.md",
-    "FING apuntes/REDES/Capa transporte/TCP/Indice TCP.md",
     "FING apuntes/Computacion grafica/Hardware grafico",
-    "FING apuntes/REDES/Capa transporte/TCP/Estructura del segmento TCP.md",
-    "FING apuntes/REDES/Capa transporte/TCP/Control de flujo TCP.md",
-    "FING apuntes/Computacion grafica/aa.md",
-    "FING apuntes/Computacion grafica/aas.md",
     "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos",
     "FING apuntes/Untitled 1",
     "FING apuntes/Taller SCF",
-    "FING apuntes/INGLES/Gramar/Idioms.md",
     "Scanntech/Cosas a tener en cuenta",
     "Scanntech/Keycloak",
-    "FING apuntes/Programacion funcional",
-    "FING apuntes/IIS/Resuemens libro",
-    "FING apuntes/IIS",
-    "FING apuntes/AGPI/Resumenes del libro"
+    "FING apuntes/Programacion funcional"
   ]
 }
