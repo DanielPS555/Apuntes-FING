@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
+                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 618.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
+                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
+                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md"
+                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md"
               }
             }
           },
@@ -171,38 +171,13 @@
   },
   "active": "95c34fc7fc3e9662",
   "lastOpenFiles": [
-    "Excalidraw/FuO - Clase 5 - Análisis del caso cuadratico 2024-04-14 02.43.15.excalidraw.md",
-    "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
-    "Excalidraw/FuO - Clase 5 - Análisis del caso cuadratico 2024-04-14 02.16.55.excalidraw.md",
-    "FING apuntes/FuO/Metodos interativos/FUO - Clase 4 y 5 - Optimizacion sin Restriccion - Algoritmos iterativos.md",
-    "Excalidraw/FUO - Clase 4 y 5 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-14 01.22.07.excalidraw.md",
-    "FING apuntes/FuO/Convergencia y analisis cuadratico",
-    "Excalidraw/FUO - Clase 2 - Algunos métodos básicos de optimización en R 2024-04-05 22.53.54.excalidraw.md",
-    "Excalidraw/FUO - Clase 3- Problema de optimizacion convexa 2024-04-06 04.12.34.excalidraw.md",
-    "Excalidraw/FUO - Clase 3- Problema de optimizacion convexa 2024-04-06 04.17.47.excalidraw.md",
-    "Excalidraw/FUO - Clase 4 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-10 02.55.08.excalidraw.md",
-    "Excalidraw/FUO - Clase 4 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-10 01.53.39.excalidraw.md",
-    "FING apuntes/FuO/Convexidad/FUO - clase 4 - Optimization sin Restriccion - Condicion necesaria y suficiente de optimalidad en problemas convexos.md",
-    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.35.39.excalidraw.md",
-    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.17.06.excalidraw.md",
-    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.12.31.excalidraw.md",
-    "FING apuntes/FuO/Metodos interativos/FUO - Introduccion metodos interativos y velocidad convergencia.md",
-    "FING apuntes/FuO/Metodos interativos/FUO - Clase 2 - Algunos métodos básicos de optimización en R.md",
-    "FING apuntes/FuO/Convexidad/FUO - Clase 3- Problema de optimizacion convexa.md",
-    "FING apuntes/FuO/Convexidad/FUO - Clase 3 - Convexidad.md",
-    "FING apuntes/FuO/Convexidad",
-    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-06 03.26.42.excalidraw.md",
-    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-06 03.23.18.excalidraw.md",
-    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-06 02.35.37.excalidraw.md",
-    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-06 02.15.32.excalidraw.md",
-    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-06 01.49.55.excalidraw.md",
-    "Excalidraw/FUO - Clase 2 - Algunos métodos básicos de optimización en R 2024-04-06 00.15.04.excalidraw.md",
-    "Excalidraw/FUO - Clase 2 - Algunos métodos básicos de optimización en R 2024-04-05 23.56.23.excalidraw.md",
-    "Excalidraw/FUO - Clase 2 - Algunos métodos básicos de optimización en R 2024-04-05 23.23.29.excalidraw.md",
-    "FING apuntes/FuO/Metodos interativos",
-    "Tecnologias/Cuda",
-    "FING apuntes/FuO/Repaso",
-    "FING apuntes/FuO",
+    "FING apuntes/HPC/HPC - Clase 1.md",
+    "FING apuntes/HPC",
+    "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
+    "Tecnologias/Python/NumPy",
+    "Tecnologias/Python",
+    "FING apuntes/Untitled",
+    "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos/Astillas y Antialiasing.md",
     "Pasted image 20240314005702.png",
     "Pasted image 20240314005332.png",
     "Pasted image 20240314005148.png",
@@ -215,7 +190,9 @@
     "Pasted image 20240313232514.png",
     "FING apuntes/Computacion grafica/Hardware grafico",
     "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos",
-    "FING apuntes/Untitled 1",
-    "FING apuntes/Taller SCF"
+    "FING apuntes/Taller SCF",
+    "Scanntech/Cosas a tener en cuenta",
+    "Scanntech/Keycloak",
+    "FING apuntes/Programacion funcional"
   ]
 }
