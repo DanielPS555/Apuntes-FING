@@ -23,6 +23,16 @@ Demostracion:
 ![[FUO - Clase 3 - Convexidad 2024-04-06 02.35.37.excalidraw]]
 
 ### Prop:
+Si es `estrictamente convexa` entonces:
+$$
+f(z) \geq f(x) + \langle \nabla f(x), z-x  \rangle + \frac{m}{2} || z-x|| ^2
+$$
+
+Esto lo que significa que puede haber una parabola por debajo de la funcion convexa.
+
+![[FUO - Clase 3 - Convexidad 2024-04-22 00.30.03.excalidraw]]
+
+### Prop:
 Si $f: R^n \rightarrow R$ tiene derivadas segundas a todos punta:
 - Si $\nabla ^2 f(x) \geq 0 \forall x \Rightarrow$ f es convexa
 - Si $\nabla ^2 f(x) > 0 \forall x \Rightarrow$ f es estrictamente convexa

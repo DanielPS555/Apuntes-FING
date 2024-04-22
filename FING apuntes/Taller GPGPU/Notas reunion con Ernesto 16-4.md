@@ -1,0 +1,4 @@
+- Noto que los metodos que se utilizan dentro del `for` mayormente utilizan todos los nucleos. Eso me hace pensar que no vamos a obtener grandes beneficios
+- Notar que en cada iteracion del `for` se actualizan tanto `X` como `R` ¿Como puedo hacer ese merge?
+	- Tengo un intento tentativo en un notebook, pero me tira matriz mal condicionada
+- No podemos usar cuda graphs para solucionar el problema sin hacer paralelizar el for?

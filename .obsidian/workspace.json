@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "56e97ed2ce696528",
+        "id": "e0816c3d459a0248",
         "type": "tabs",
         "children": [
           {
-            "id": "95c34fc7fc3e9662",
+            "id": "25c4027f6437e31e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
+                "file": "FING apuntes/FuO/Convexidad/FUO - clase 4 - Optimization sin Restriccion - Condicion necesaria y suficiente de optimalidad en problemas convexos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b051ca0d0f3678b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 526.5110321044922
   },
   "right": {
     "id": "85ed1a2fede2a5ab",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
+                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
+                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md"
+                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md"
               }
             }
           },
@@ -169,15 +181,44 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "95c34fc7fc3e9662",
+  "active": "b051ca0d0f3678b3",
   "lastOpenFiles": [
-    "FING apuntes/HPC/HPC - Clase 1.md",
-    "FING apuntes/HPC",
-    "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
-    "Tecnologias/Python/NumPy",
-    "Tecnologias/Python",
-    "FING apuntes/Untitled",
-    "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos/Astillas y Antialiasing.md",
+    "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
+    "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
+    "Excalidraw/FuO - Clase 6 - Métodos acelerados -momentum 2024-04-22 00.42.44.excalidraw.md",
+    "FING apuntes/FuO/Convexidad/FUO - clase 4 - Optimization sin Restriccion - Condicion necesaria y suficiente de optimalidad en problemas convexos.md",
+    "FING apuntes/FuO/Convexidad/FUO - Clase 3 - Convexidad.md",
+    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-22 00.30.03.excalidraw.md",
+    "FING apuntes/FuO/Convexidad/FUO - Clase 3- Problema de optimizacion convexa.md",
+    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Superfices bicubicas parametricas.md",
+    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Curvas cubicas parametricas.md",
+    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Sin título.md",
+    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Representación Curvas y superficies.md",
+    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Mallas poligonales.md",
+    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Introduccion representacion curvas y superfices.md",
+    "FING apuntes/Computacion grafica/Representacion de curvas y superfices",
+    "FING apuntes/Taller GPGPU/Notas reunion con Ernesto 16-4.md",
+    "FING apuntes/Taller GPGPU/Horas.md",
+    "FING apuntes/Taller GPGPU",
+    "Pasted image 20240414234005.png",
+    "Pasted image 20240414233952.png",
+    "Excalidraw/FuO - Clase 5 - Análisis del caso cuadratico 2024-04-14 02.43.15.excalidraw.md",
+    "Excalidraw/FuO - Clase 5 - Análisis del caso cuadratico 2024-04-14 02.16.55.excalidraw.md",
+    "FING apuntes/FuO/Metodos interativos/FUO - Clase 4 y 5 - Optimizacion sin Restriccion - Algoritmos iterativos.md",
+    "Excalidraw/FUO - Clase 4 y 5 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-14 01.22.07.excalidraw.md",
+    "FING apuntes/FuO/Convergencia y analisis cuadratico",
+    "Excalidraw/FUO - Clase 2 - Algunos métodos básicos de optimización en R 2024-04-05 22.53.54.excalidraw.md",
+    "Excalidraw/FUO - Clase 3- Problema de optimizacion convexa 2024-04-06 04.12.34.excalidraw.md",
+    "Excalidraw/FUO - Clase 3- Problema de optimizacion convexa 2024-04-06 04.17.47.excalidraw.md",
+    "Excalidraw/FUO - Clase 4 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-10 02.55.08.excalidraw.md",
+    "Excalidraw/FUO - Clase 4 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-10 01.53.39.excalidraw.md",
+    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.35.39.excalidraw.md",
+    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.17.06.excalidraw.md",
+    "FING apuntes/FuO/Convexidad",
+    "FING apuntes/FuO/Metodos interativos",
+    "Tecnologias/Cuda",
+    "FING apuntes/FuO/Repaso",
+    "FING apuntes/FuO",
     "Pasted image 20240314005702.png",
     "Pasted image 20240314005332.png",
     "Pasted image 20240314005148.png",
@@ -186,13 +227,7 @@
     "Pasted image 20240314004349.png",
     "Pasted image 20240314002052.png",
     "Pasted image 20240314001906.png",
-    "Pasted image 20240313234346.png",
-    "Pasted image 20240313232514.png",
     "FING apuntes/Computacion grafica/Hardware grafico",
-    "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos",
-    "FING apuntes/Taller SCF",
-    "Scanntech/Cosas a tener en cuenta",
-    "Scanntech/Keycloak",
-    "FING apuntes/Programacion funcional"
+    "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos"
   ]
 }
