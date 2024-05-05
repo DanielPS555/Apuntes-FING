@@ -25,7 +25,7 @@ Sea $cond$ el numero de condiicon de una matriz, donde $cond = \frac{M}{m}$ , vi
 $$||x_k , x^*|| \leq (1- \frac{2}{cond + 1}) ^ k ||x_0-x^*||$$
 
 ## Prop (`Importante`)
-Si $f$ es `estrictamente convexa` y $\nabla f$ `Lipsihtz` entonces si elegimos $\alpha = \frac{2}{M+m}$ se cumple que la `taza de convergencia`: $||x_k , x^*|| \leq (1- \frac{2}{cond + 1}) ^ k ||x_0-x^*||$
+Si $f$ es `estrictamente convexa` y $\nabla f$ `Lipsihtz` entonces si elegimos $\alpha = \frac{2}{M+m}$ se cumple que la `taza de convergencia`: $||x_k - x^*|| \leq (1- \frac{2}{cond + 1}) ^ k ||x_0-x^*||$
 
 ### Observación (`Importante`)
 Si utilizamos otra técnica para elegir el paso (Ej: Armijo, Linea Serach) `no cambia la taza de convergencia`. Debe cambiar el metodo, por ejemplo usar newton.

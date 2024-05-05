@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
+                "file": "FING apuntes/FuO/FuO - Clase 7 - Metodo de gradiente conjugado.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
+                "file": "FING apuntes/FuO/FuO - Clase 7 - Metodo de gradiente conjugado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
+                "file": "FING apuntes/FuO/FuO - Clase 7 - Metodo de gradiente conjugado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md"
+                "file": "FING apuntes/FuO/FuO - Clase 7 - Metodo de gradiente conjugado.md"
               }
             }
           },
@@ -183,8 +183,11 @@
   },
   "active": "b051ca0d0f3678b3",
   "lastOpenFiles": [
-    "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
+    "Pasted image 20240505165914.png",
     "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
+    "FING apuntes/FuO/FuO - Clase 7 - Metodo de gradiente conjugado.md",
+    "Excalidraw/FuO - Clase 7 - Metodo de gradiente conjugado 2024-05-05 14.50.55.excalidraw.md",
+    "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
     "Excalidraw/FuO - Clase 6 - Métodos acelerados -momentum 2024-04-22 00.42.44.excalidraw.md",
     "FING apuntes/FuO/Convexidad/FUO - clase 4 - Optimization sin Restriccion - Condicion necesaria y suficiente de optimalidad en problemas convexos.md",
     "FING apuntes/FuO/Convexidad/FUO - Clase 3 - Convexidad.md",
@@ -211,9 +214,6 @@
     "Excalidraw/FUO - Clase 3- Problema de optimizacion convexa 2024-04-06 04.12.34.excalidraw.md",
     "Excalidraw/FUO - Clase 3- Problema de optimizacion convexa 2024-04-06 04.17.47.excalidraw.md",
     "Excalidraw/FUO - Clase 4 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-10 02.55.08.excalidraw.md",
-    "Excalidraw/FUO - Clase 4 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-10 01.53.39.excalidraw.md",
-    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.35.39.excalidraw.md",
-    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.17.06.excalidraw.md",
     "FING apuntes/FuO/Convexidad",
     "FING apuntes/FuO/Metodos interativos",
     "Tecnologias/Cuda",
