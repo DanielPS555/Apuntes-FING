@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe2eb8b014acc3f",
+        "id": "c068c0da90d85b15",
         "type": "tabs",
         "children": [
           {
-            "id": "ea0a7aecad8cd554",
+            "id": "a145a76a1b7e723a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FING apuntes/Computacion grafica/Luz cromatica y acromatica.md",
-                "mode": "source",
-                "source": false
+                "file": "FING apuntes/IIS/Resuemens libro/imgs/iisCap4Img6.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desenso",
+                "query": "epigra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.5110359191895
+    "width": 468.5
   },
   "right": {
     "id": "85ed1a2fede2a5ab",
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/Computacion grafica/Luz cromatica y acromatica.md",
+                "file": "FING apuntes/IIS/Resuemens libro/imgs/iisCap4Img6.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/Computacion grafica/Luz cromatica y acromatica.md",
+                "file": "FING apuntes/IIS/Resuemens libro/imgs/iisCap4Img6.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/Computacion grafica/Luz cromatica y acromatica.md"
+                "file": "FING apuntes/IIS/Resuemens libro/imgs/iisCap4Img6.png"
               }
             }
           },
@@ -158,55 +156,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-matrix:Obsidian Matrix": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea0a7aecad8cd554",
+  "active": "07c6f22b9329c0d8",
   "lastOpenFiles": [
-    "FING apuntes/FuO/FuO - Clase 6 - Métodos acelerados -momentum.md",
-    "FING apuntes/Computacion grafica/Luz cromatica y acromatica.md",
-    "FING apuntes/FuO/FuO - Clase 7 - Metodo de gradiente conjugado.md",
-    "FING apuntes/FuO/Convexidad/FUO - Clase 3 - Convexidad.md",
-    "FING apuntes/FuO/Fuo - Clase 2.md",
-    "FING apuntes/FuO/FuO - Clase 1.md",
+    "FING apuntes/IIS/Resuemens libro/imgs/Iiscap4Img5.png",
+    "FING apuntes/IIS/Resuemens libro/imgs/IISCap4_1.png",
     "FING apuntes/FuO/Metodos interativos/FUO - Clase 4 y 5 - Optimizacion sin Restriccion - Algoritmos iterativos.md",
-    "FING apuntes/FuO/Convexidad/FUO - clase 4 - Optimization sin Restriccion - Condicion necesaria y suficiente de optimalidad en problemas convexos.md",
+    "FING apuntes/FuO/Convexidad/FUO - Clase 3 - Convexidad.md",
     "FING apuntes/FuO/Convexidad/FUO - Clase 3- Problema de optimizacion convexa.md",
-    "FING apuntes/FuO/Metodos interativos/FUO - Clase 2 - Algunos métodos básicos de optimización en R.md",
     "FING apuntes/FuO/Convergencia y analisis cuadratico/FuO - Clase 5 - Análisis del caso cuadratico.md",
+    "FING apuntes/FuO/Metodos interativos/FUO - Introduccion metodos interativos y velocidad convergencia.md",
+    "FING apuntes/FuO/Metodos interativos/FUO - Clase 2 - Algunos métodos básicos de optimización en R.md",
+    "FING apuntes/FuO/Convexidad/FUO - clase 4 - Optimization sin Restriccion - Condicion necesaria y suficiente de optimalidad en problemas convexos.md",
+    "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
+    "FING apuntes/HPC/HPC - Clase 1.md",
+    "FING apuntes/HPC",
+    "Tecnologias/Cuda/Cooperative Groups.md",
+    "Tecnologias/Cuda",
+    "FING apuntes/Taller SCF/Investigation Weed detection.md",
+    "FING apuntes/Taller SCF/Investigation Computer vision.md",
+    "FING apuntes/PIS/Usuarios.md",
+    "FING apuntes/PIS",
+    "FING apuntes/FuO/Repaso/FuO - Repaso - Diferenciabilidad.md",
+    "FING apuntes/FuO/Repaso",
+    "FING apuntes/FuO/Metodos interativos",
+    "FING apuntes/FuO/FuO - Clase 1.md",
+    "FING apuntes/FuO/Fuo - Clase 2.md",
+    "FING apuntes/FuO/Convexidad",
+    "FING apuntes/FuO/Convergencia y analisis cuadratico",
+    "FING apuntes/FuO",
+    "Excalidraw/Fuo - Clase 2 2024-04-05 21.11.03.excalidraw.md",
+    "Excalidraw/Fuo - Clase 2 2024-04-05 21.10.01.excalidraw.md",
+    "Excalidraw/Fuo - Clase 2 2024-04-05 21.08.39.excalidraw.md",
     "Excalidraw/FuO - Clase 5 - Análisis del caso cuadratico 2024-04-14 02.43.15.excalidraw.md",
     "Excalidraw/FuO - Clase 5 - Análisis del caso cuadratico 2024-04-14 02.16.55.excalidraw.md",
-    "FING apuntes/FuO/Repaso/FuO - Repaso - Diferenciabilidad.md",
-    "FING apuntes/HPC/OpenMP - Resumen.md",
-    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-06 02.15.32.excalidraw.md",
-    "FING apuntes/IIO/Optimizacion/Clase 3 - IIO - 6.3.2022.md",
-    "Pasted image 20240505165914.png",
-    "Excalidraw/FuO - Clase 7 - Metodo de gradiente conjugado 2024-05-05 14.50.55.excalidraw.md",
-    "Excalidraw/FuO - Clase 6 - Métodos acelerados -momentum 2024-04-22 00.42.44.excalidraw.md",
-    "Excalidraw/FUO - Clase 3 - Convexidad 2024-04-22 00.30.03.excalidraw.md",
-    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Superfices bicubicas parametricas.md",
-    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Curvas cubicas parametricas.md",
-    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Sin título.md",
-    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Representación Curvas y superficies.md",
-    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Mallas poligonales.md",
-    "FING apuntes/Computacion grafica/Representacion de curvas y superfices/Introduccion representacion curvas y superfices.md",
-    "FING apuntes/Computacion grafica/Representacion de curvas y superfices",
-    "FING apuntes/Taller GPGPU",
-    "Pasted image 20240414234005.png",
-    "Pasted image 20240414233952.png",
-    "FING apuntes/FuO/Convergencia y analisis cuadratico",
-    "FING apuntes/FuO/Convexidad",
-    "FING apuntes/FuO/Metodos interativos",
-    "Tecnologias/Cuda",
-    "FING apuntes/FuO/Repaso",
-    "FING apuntes/FuO",
+    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.35.39.excalidraw.md",
+    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.17.06.excalidraw.md",
+    "Excalidraw/FUO - clase 4 - Optimization sin Restriccion 2024-04-10 01.12.31.excalidraw.md",
+    "Excalidraw/FUO - Clase 4 y 5 - Optimizacion sin Restriccion - Algoritmos iterativos 2024-04-14 01.22.07.excalidraw.md",
+    "Tecnologias/Python/NumPy",
+    "Tecnologias/Python",
     "Pasted image 20240314005702.png",
     "Pasted image 20240314005332.png",
     "Pasted image 20240314005148.png",
@@ -214,7 +212,7 @@
     "Pasted image 20240314004732.png",
     "Pasted image 20240314004349.png",
     "Pasted image 20240314002052.png",
-    "FING apuntes/Computacion grafica/Hardware grafico",
-    "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos"
+    "Pasted image 20240314001906.png",
+    "Pasted image 20240313234346.png"
   ]
 }

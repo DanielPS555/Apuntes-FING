@@ -80,7 +80,7 @@ $$ con $d_{k_i} = (\frac{\partial^2f(x_k)}{\partial x^2_i})^{-1}$
 	
 ## Proposición
 Si las direcciones $d_k$ son de descenso y los $\alpha_k$ son elegidos según Armijo
-Entonces :todos los puntos limites de $x_k$ son estacionarios.
+Entonces :todos los puntos de acumulacion de $x_k$ son estacionarios (puntos criticos).
 
 Observación: `Funciona tambien para paso decresente y paso fijo en cierto entorno`
 
