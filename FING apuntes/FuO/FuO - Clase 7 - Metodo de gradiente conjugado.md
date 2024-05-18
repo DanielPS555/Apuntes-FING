@@ -79,7 +79,7 @@ Por lo tanto el método sera el siguiente:
 		$d_k = r_k + \beta_k . d_{k-1}$ pero nos queremos asegurar que $d_{k}$ y $d_{k-1}$ sean conjugadas según A, eso es $d_{k-1}^T A d_k = 0$. 
 		Para ello elegimos $$\beta_k = -\frac{r_k^TAd_{k-1}}{d_{k-1}^TAd_{k-1}}$$ 
 		
-- Luego podemos calcular cual es el mejor $\alpha_k$ para la dirrecíon elegida $$\alpha_k = - \frac{r_k^Td_k}{d_k^TAd_k}$$
+- Luego podemos calcular cual es el mejor $\alpha_k$ para la dirrecíon elegida $$\alpha_k = \frac{r_k^Td_k}{d_k^TAd_k}$$
 - Con ambos datos podemos calcular $x_{k}$ 
 
 #### Pseudo codding 
@@ -87,11 +87,13 @@ Por lo tanto el método sera el siguiente:
 
 ![[Pasted image 20240505165914.png]]
 
+OJO: Primera cuenta mal, el $\alpha$ no es negativo al inicio
+
 `Importante`
 Notar que podemos escribir el paso 3º de la siguiente forma: 
 
 $r_{k+1} = b - Ax_{k+1}$ 
-	 $= b - A(x_k - \alpha_k d_k)$
+	 $= b - A(x_k + \alpha_k d_k)$
 	 $= b - A.x_k - \alpha_k A d_k$ 
      $= r_k - \alpha_k A d_k$  
 

@@ -12,7 +12,7 @@ Donde:
 - $d_k \in \mathbb{R}^n$ es una dirrecion
 - $\alpha_k \in \mathbb{R}^+$ rs un peso
 
-Notar que cuando $\langle f(x_k), d_k\rangle < 0$ decimos que es un `metodo de gradiente`. 
+Notar que cuando $\langle \nabla f(x_k), d_k\rangle < 0$ decimos que es un `metodo de gradiente`. 
 Ademas a una dirección $d_k$ que cumpla con lo anterior se lo llama `dirrecion de desenso`. 
 
 Obs: $\langle f(x_k), d_k\rangle$ es la derivada de $f$ en la dirreción $d_k$.

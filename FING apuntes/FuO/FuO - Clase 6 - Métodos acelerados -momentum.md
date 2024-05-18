@@ -35,16 +35,16 @@ Sabemos que descenso por gradiente nos permite tener métodos de orden lineal, c
 
 
 
-## Método Hezwg-beth
+## Método Heavy-Ball
 
 Podemos intentar eliminar el zig-zag añadiendo algo similar al "rosamiento" en física (ideas locas de Fiori...). Pero esencial se ve asi:
 
 - $x_{k+1} = x_k + \alpha p_k$
 - $p_k = - \nabla f(x_k) + \beta p_{k-1}$  
 
-O sea, por medio de un $\beta$ se utiliza en mas o menos medida la información de la anterior dirrecion. O sea el método tiene "memoria" y utiliza para elegir la nueva dirrecion la información de la anterior dirrecion.
+O sea, por medio de un $\beta$ se utiliza en mas o menos medida la información de la anterior dirrecion. O sea el método tiene "memoria" y utiliza para elegir la nueva dirrecion la información de la anterior dirreción.
 
-El método `hezwg-beth` es cuando $\alpha, \beta$ es constante.
+El método `Heavy-Ball` es cuando $\alpha, \beta$ es constante.
 
 Si $f$ es cuadrática es lo conoce como método `Chebyshev`. 
 
