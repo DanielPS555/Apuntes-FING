@@ -1,4 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-matrix"
+  "obsidian-matrix",
+  "obsidian-admonition",
+  "obsidian-style-settings"
 ]

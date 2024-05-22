@@ -112,3 +112,8 @@ Hay formas de aplicarlo a problemas que no son cuadráticos, pero ahí se vuelve
 
 ### Problemas auxiliares
 Se puede aplicar en la solucion de problemas auxiliares, como por ejemplo encontrar la derivada segunda (heziana) en la resolucion del metodo de Newton
+
+### Tasa 
+Se consigue la misma tasa que con Nesterov, pero solo funciona en el caso cuadratico. 
+
+Tasa de convergencia: $$1 - \frac{2}{\sqrt{k}+ 1}$$
