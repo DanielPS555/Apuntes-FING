@@ -1,4 +1,0 @@
-- Cuando entramos a Testing con nuestros usuarios SC, ¿Donde estan estos usuarios?
-- Que pasa si un usuario no tiene correo?
-- Que es y que pasa con la base de Jommbla
-- Para actualizar una claves es solamente cambiar el md5 de la password?

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae663f4f4e8c579f",
+        "id": "1979da451576298d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1d8649ec94ca81",
+            "id": "daaf1586ebec435b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FING apuntes/Taller SCF/Fine Tuning/Tuner YOLO.md",
+                "file": "FING apuntes/FuO/Fuo - Clase 10 - Métodos de optimalidad con restricciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FING apuntes/Taller SCF/Fine Tuning/Tuner YOLO.md",
+                "file": "FING apuntes/FuO/Fuo - Clase 10 - Métodos de optimalidad con restricciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FING apuntes/Taller SCF/Fine Tuning/Tuner YOLO.md",
+                "file": "FING apuntes/FuO/Fuo - Clase 10 - Métodos de optimalidad con restricciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FING apuntes/Taller SCF/Fine Tuning/Tuner YOLO.md"
+                "file": "FING apuntes/FuO/Fuo - Clase 10 - Métodos de optimalidad con restricciones.md"
               }
             }
           },
@@ -168,25 +168,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d1d8649ec94ca81",
+  "active": "daaf1586ebec435b",
   "lastOpenFiles": [
-    "FING apuntes/Taller SCF/Modificar threshold mAP.md",
+    "Pasted image 20240524022855.png",
+    "FING apuntes/FuO/Optimizacion con restriccion/FuO - Clase 9 - Optimization sin restricciones - condiciones de optimalidad.md",
+    "FING apuntes/FuO/Metodos interativos/FUO - Introduccion metodos interativos y velocidad convergencia.md",
+    "FING apuntes/FuO/Metodos interativos/Fuo - Clase 8 - Notas generales metodos iterativos.md",
+    "FING apuntes/FuO/Fuo - Clase 10 - Métodos de optimalidad con restricciones.md",
+    "FING apuntes/Taller GPGPU/Horas.md",
+    "Pasted image 20240523020833.png",
+    "Pasted image 20240523020752.png",
+    "Paper Fiori.pdf",
     "FING apuntes/Taller SCF/Fine Tuning/Tuner YOLO.md",
+    "FING apuntes/Taller SCF/Modificar threshold mAP.md",
     "FING apuntes/Taller SCF/Fine Tuning",
     "FING apuntes/Taller SCF/Fine Tuning/Hiper parametros YOLO.md",
     "FING apuntes/Computacion grafica/Iluminacion global.md",
     "Pasted image 20240521000032.png",
-    "FING apuntes/FuO/Optimizacion con restriccion/FuO - Clase 9 - Optimization sin restricciones - condiciones de optimalidad.md",
     "Excalidraw/FuO - Clase 9 - Optimization sin restricciones - condiciones de optimalidad 2024-05-20 02.01.40.excalidraw.md",
     "Excalidraw/FuO - Clase 9 - Optimization sin restricciones - condiciones de optimalidad 2024-05-20 01.55.49.excalidraw.md",
     "Excalidraw/FuO - Clase 9 - Optimization sin restricciones - condiciones de optimalidad 2024-05-20 01.39.29.excalidraw.md",
     "Excalidraw/FuO - Clase 9 - Optimization sin restricciones - condiciones de optimalidad 2024-05-19 23.47.43.excalidraw.md",
     "Excalidraw/FuO - Clase 9 - Optimization sin restricciones - condiciones de optimalidad 2024-05-19 23.08.24.excalidraw.md",
-    "FING apuntes/FuO/Metodos interativos/Fuo - Clase 8 - Notas generales metodos iterativos.md",
     "FING apuntes/FuO/Optimizacion con restriccion",
     "FING apuntes/FuO/Metodos interativos/FuO - Clase 8 - Coordinate descent.md",
     "FING apuntes/FuO/Metodos interativos/FuO - Clase 7 - Metodo de gradiente conjugado.md",
-    "FING apuntes/FuO/Metodos interativos/FUO - Introduccion metodos interativos y velocidad convergencia.md",
     "FING apuntes/FuO/Metodos interativos/FuO - Clase 6 - Métodos acelerados - Nesterov.md",
     "Excalidraw/FuO - Clase 8 - Coordinate descent 2024-05-19 20.20.00.excalidraw.md",
     "FING apuntes/Computacion grafica/Determinación de Superficies Visibles.md",
@@ -199,7 +205,6 @@
     "Pasted image 20240518042750.png",
     "Pasted image 20240518042255.png",
     "Pasted image 20240518041109.png",
-    "Pasted image 20240518040730.png",
     "Tecnologias/Python/NumPy/Principales instrucciones NumPy.md",
     "FING apuntes/HPC/HPC - Clase 1.md",
     "FING apuntes/HPC",
@@ -207,14 +212,9 @@
     "Tecnologias/Python",
     "FING apuntes/Untitled",
     "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos/Astillas y Antialiasing.md",
-    "Pasted image 20240314005702.png",
     "FING apuntes/IIS/Indice IIS.md",
     "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 2.md",
-    "FING apuntes/IIS/Clase 1.md",
-    "FING apuntes/IIS/Resuemens libro/Libro IIS - Capitulo 1.md",
-    "FING apuntes/Taller SCF/Clase 1 TSF.md",
     "FING apuntes/Computacion grafica/Hardware grafico",
-    "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos",
-    "FING apuntes/Taller SCF"
+    "FING apuntes/Computacion grafica/Algoritmos de Raster Basicos"
   ]
 }

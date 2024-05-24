@@ -52,7 +52,7 @@ Escritura alternativa de la condicion de optimalidad
 
 $$x^* = P_X(x^* - \nabla \alpha f(x^*)), \forall \alpha > 0 $$ 
 
-Se la conoce como `Condicion de estacionalidad
+Se la conoce como `Condicion de estacionalidad`
 ```
 
 Notar que lo anterior lo que nos dice es que si estamos parados en el optimo, nos movemos en la dirrecion de mayor decrecimiento ($\nabla f(x^*)$) y luego proyectamos, entonces NO nos movimos.
