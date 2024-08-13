@@ -26,7 +26,7 @@ Entonces elegimos un $\overline{x_k}$ que `minimiza` $\langle \nabla f(x_k), \ov
 O sea que en cada paso buscamos:
 
 $$
-\overline{x_k} = argmin_{x \in X} \langle \nabla f(x_k), \overline{x_k} - x_k \rangle
+\overline{x_{k+1}} = argmin_{x \in X} \langle \nabla f(x_k), \overline{x_k} - x_k \rangle
 $$
 
 ```
